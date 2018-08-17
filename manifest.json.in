@@ -1,7 +1,7 @@
 {
     "name": "activitytracker.cwayne18",
     "description": "Activity tracker for Ubuntu touch",
-    "architecture": "all",
+    "architecture": ["armhf", "amd64", "i386"],
     "title": "activitytracker",
     "hooks": {
         "activitytracker": {
