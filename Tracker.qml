@@ -3,6 +3,7 @@ import Ubuntu.Components 1.3
 import Ubuntu.Components.Popups 1.3
 import QtPositioning 5.3
 import QtLocation 5.3
+import "oba.js" as K
 
 Rectangle {
    color: "white"
@@ -134,13 +135,17 @@ Rectangle {
          id: map
          anchors.fill: parent
          center: src.position.coordinate
-         zoomLevel: map.maximumZoomLevel - 2
+         zoomLevel: map.maximumZoomLevel - 5
          plugin : Plugin {
             id: plugin
             allowExperimental: true
-            preferred: ["osm"]
+            preferred: ["nokia"]
             required.mapping: Plugin.AnyMappingFeatures
             required.geocoding: Plugin.AnyGeocodingFeatures
+            parameters: [
+            PluginParameter { name: "app_id"; value: K.appid },
+            PluginParameter { name: "token"; value: K.token }
+            ]
          }
 
          Component.onCompleted: {

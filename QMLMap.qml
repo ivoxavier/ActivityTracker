@@ -9,6 +9,7 @@ import Ubuntu.Components.ListItems 1.3 as ListItem
 import Ubuntu.Components.Popups 1.3
 import "./lib/polyline.js" as Pl
 import Ubuntu.Web 0.2
+import "oba.js" as K
 
 
 
@@ -39,22 +40,17 @@ Page {
    }
 
    /*ListView {
-      id: whattheproblem
-      whattheproblem.model:
-      id: gpxmodel
-      whattheproblem.delegate: Component {
-         Text {
-            latitude: gpxmodel.latitude
-            longitude: gpxmodel.longitude
-         }
-      }
+   id: whattheproblem
+   whattheproblem.model:
+   id: gpxmodel
+   whattheproblem.delegate: Component {
+      Text {
+      latitude: gpxmodel.latitude
+      longitude: gpxmodel.longitude
+   }
+   }
    }*/
 
-
-   Plugin {
-      id: mapPlugin
-      name: "osm"
-   }
    Map {
       id: map
       anchors.fill: parent
@@ -63,9 +59,13 @@ Page {
       plugin : Plugin {
          id: plugin
          allowExperimental: true
-         preferred: ["osm"]
+         preferred: ["nokia"]
          required.mapping: Plugin.AnyMappingFeatures
          required.geocoding: Plugin.AnyGeocodingFeatures
+         parameters: [
+         PluginParameter { name: "app_id"; value: K.appid },
+         PluginParameter { name: "token"; value: K.token }
+         ]
       }
 
       MapPolyline {
