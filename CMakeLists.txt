@@ -33,6 +33,7 @@ execute_process(
 )
 
 file(GLOB QML_FILES *.qml)
+file(GLOB SCRIPT_FILES *.js)
 
 configure_file(manifest.json.in ${CMAKE_CURRENT_BINARY_DIR}/manifest.json)
 install(FILES ${CMAKE_CURRENT_BINARY_DIR}/manifest.json DESTINATION ${CMAKE_INSTALL_PREFIX})
@@ -41,6 +42,7 @@ install(DIRECTORY images DESTINATION ${DATA_DIR})
 install(DIRECTORY lib DESTINATION ${DATA_DIR})
 install(DIRECTORY py DESTINATION ${DATA_DIR})
 install(FILES ${QML_FILES} DESTINATION ${DATA_DIR})
+install(FILES ${SCRIPT_FILES} DESTINATION ${DATA_DIR})
 
 # Translations
 file(GLOB_RECURSE I18N_SRC_FILES RELATIVE ${CMAKE_CURRENT_SOURCE_DIR}/po *.qml)
