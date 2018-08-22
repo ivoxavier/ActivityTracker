@@ -74,4 +74,3 @@ class ClickAppTestCase(base.UbuntuUIToolkitAppTestCase):
     def _launch_installed_application(self):
         return self.launch_click_package(
             PACKAGE_ID, emulator_base=ApplicationCustomProxyObject)
-

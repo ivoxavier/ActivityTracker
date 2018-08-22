@@ -2,14 +2,14 @@
     "name": "activitytracker.cwayne18",
     "description": "Activity tracker for Ubuntu touch",
     "architecture": ["armhf", "amd64", "i386"],
-    "title": "activitytracker",
+    "title": "Activity tracker",
     "hooks": {
         "activitytracker": {
             "apparmor": "activitytracker.apparmor",
             "desktop": "activitytracker.desktop"
         }
     },
-    "version": "0.3",
+    "version": "0.3.1",
     "maintainer": "Erne st <slash.tux@gmail.com>",
     "framework": "ubuntu-sdk-15.04"
 }
