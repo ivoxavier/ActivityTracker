@@ -1,7 +1,11 @@
 {
     "name": "activitytracker.cwayne18",
     "description": "Activity tracker for Ubuntu touch",
+<<<<<<< HEAD
     "architecture": ["armhf", "amd64", "i386"],
+=======
+    "architecture": "all",
+>>>>>>> origin/master
     "title": "Activity tracker",
     "hooks": {
         "activitytracker": {
@@ -9,7 +13,11 @@
             "desktop": "activitytracker.desktop"
         }
     },
+<<<<<<< HEAD
     "version": "0.3.1",
+=======
+    "version": "0.11",
+>>>>>>> origin/master
     "maintainer": "Erne st <slash.tux@gmail.com>",
     "framework": "ubuntu-sdk-15.04"
 }

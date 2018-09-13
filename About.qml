@@ -35,7 +35,11 @@ Page {
             }
 
             Text {
+<<<<<<< HEAD
                text: i18n.tr("Version") + " 0.3.1"
+=======
+               text: i18n.tr("Version") + " 0.11"
+>>>>>>> origin/master
                anchors.horizontalCenter: parent.horizontalCenter
             }
          }
@@ -105,6 +109,25 @@ Page {
                wrapMode: Text.Wrap
                font.pointSize: units.gu(1)
                width: parent.width
+            }
+         }
+
+         Row {
+            anchors.horizontalCenter: parent.horizontalCenter; spacing:units.gu(1)
+            Icon {name:"language-chooser";color:UbuntuColors.blue;height:translate.height}
+            Button {
+               id: translate
+               text: i18n.tr("Translate this app on Weblate!")
+               onClicked: Qt.openUrlExternally("https://hosted.weblate.org/projects/activity-tracker/")
+            }
+         }
+         Row {
+            anchors.horizontalCenter: parent.horizontalCenter; spacing:units.gu(1)
+            Icon {name:"like";color:UbuntuColors.red;height:supportWL.height}
+            Button {
+               id:supportWL
+               text: i18n.tr("Support Weblate")
+               onClicked: Qt.openUrlExternally("https://weblate.org/donate/")
             }
          }
       }

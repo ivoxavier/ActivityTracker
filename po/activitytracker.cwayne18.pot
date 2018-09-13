@@ -1,6 +1,10 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+<<<<<<< HEAD:po/activitytracker.cwayne18.pot
 # This file is distributed under the same license as the PACKAGE package.
+=======
+# This file is distributed under the same license as the activitytracker.cwayne18 package.
+>>>>>>> origin/master:po/activitytracker.cwayne18.pot
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
@@ -8,7 +12,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD:po/activitytracker.cwayne18.pot
 "POT-Creation-Date: 2018-08-22 15:29+0000\n"
+=======
+"POT-Creation-Date: 2018-09-02 17:01+0000\n"
+>>>>>>> origin/master:po/activitytracker.cwayne18.pot
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+<<<<<<< HEAD:po/activitytracker.cwayne18.pot
 #: ../QMLMap.qml:19
 msgid "Activity Map"
 msgstr ""
@@ -82,7 +91,106 @@ msgid "Start"
 msgstr ""
 
 #: ../Tracker.qml:349
+=======
+#: ../Tracker.qml:14
+msgid "Run"
+msgstr ""
+
+#: ../Tracker.qml:15
+msgid "BikeRide"
+msgstr ""
+
+#: ../Tracker.qml:16
+msgid "Walk"
+msgstr ""
+
+#: ../Tracker.qml:17
+msgid "Drive"
+msgstr ""
+
+#: ../Tracker.qml:18
+msgid "Hike"
+msgstr ""
+
+#: ../Tracker.qml:28
+msgid "Choose sport:"
+msgstr ""
+
+#: ../Tracker.qml:41
+msgid "After"
+msgstr ""
+
+#: ../Tracker.qml:79
+msgid "Activity in Progress"
+msgstr ""
+
+#: ../Tracker.qml:79
+msgid "New Activity"
+msgstr ""
+
+#: ../Tracker.qml:117
+msgid "Do you want to cancel the activity?"
+msgstr ""
+
+#: ../Tracker.qml:120
+msgid "Yes, cancel"
+msgstr ""
+
+#: ../Tracker.qml:138
+msgid "No, continue"
+msgstr ""
+
+#: ../Tracker.qml:176 ../Tracker.qml:181
+msgid "No data"
+msgstr ""
+
+#: ../Tracker.qml:242
+msgid "Do you want to stop the recording?"
+msgstr ""
+
+#: ../Tracker.qml:244
+msgid "Yes, Stop!"
+msgstr ""
+
+#: ../Tracker.qml:262
+msgid "No, Continue"
+msgstr ""
+
+#: ../Tracker.qml:273
+msgid "Select the type and the name of your activity"
+msgstr ""
+
+#: ../Tracker.qml:277
+msgid "Name"
+msgstr ""
+
+#: ../Tracker.qml:280
+msgid "Select a sport below"
+msgstr ""
+
+#: ../Tracker.qml:290
+msgid "Activity Type"
+msgstr ""
+
+#: ../Tracker.qml:306
+msgid "Save"
+msgstr ""
+
+#: ../Tracker.qml:346
+msgid "Cancel"
+msgstr ""
+
+#: ../Tracker.qml:397
+msgid "Start"
+msgstr ""
+
+#: ../Tracker.qml:418
+>>>>>>> origin/master:po/activitytracker.cwayne18.pot
 msgid "Stop"
+msgstr ""
+
+#: ../Map.qml:18
+msgid "Activity Map"
 msgstr ""
 
 #: ../About.qml:7 ../Main.qml:217
@@ -110,6 +218,17 @@ msgstr ""
 msgid ""
 "Thanks to %1 for the icons based on:<br>%3 by %8 from %2,<br>%4 by %9 from "
 "%2,<br>%5 by %10 from %2,<br>%6 by %11 from %2,<br>%7 by %12 from %2"
+<<<<<<< HEAD:po/activitytracker.cwayne18.pot
+=======
+msgstr ""
+
+#: ../About.qml:116
+msgid "Translate this app on Weblate!"
+msgstr ""
+
+#: ../About.qml:125
+msgid "Support Weblate"
+>>>>>>> origin/master:po/activitytracker.cwayne18.pot
 msgstr ""
 
 #: ../Settings.qml:16 ../Main.qml:212
@@ -165,6 +284,6 @@ msgstr ""
 msgid "Swipe up to log a new activity"
 msgstr ""
 
-#: ../Main.qml:328
+#: ../Main.qml:327
 msgid "Log new Activity"
 msgstr ""
