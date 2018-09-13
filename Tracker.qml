@@ -1,14 +1,9 @@
 import QtQuick 2.4
 import Ubuntu.Components 1.3
 import Ubuntu.Components.Popups 1.3
-<<<<<<< HEAD
-import QtPositioning 5.3
-import QtLocation 5.3
-import "oba.js" as K
-=======
 import QtPositioning 5.9
 import QtLocation 5.9
->>>>>>> origin/master
+import "oba.js" as K
 
 Rectangle {
    id: trackerroot
@@ -281,10 +276,7 @@ Rectangle {
          Dialog {
             id: save_dialogue
             title: i18n.tr("Select the type and the name of your activity")
-<<<<<<< HEAD
-=======
             Component.onCompleted: previousSport = selectedsport
->>>>>>> origin/master
 
             Label {
                text: i18n.tr("Name")
@@ -302,20 +294,6 @@ Rectangle {
                id: os
                text: i18n.tr("Activity Type")
                containerHeight: itemHeight*3.5
-<<<<<<< HEAD
-               currentlyExpanded: true
-               // delegate: selectorDelegate
-               model: [
-               // FIXME: some codes depends on the name of the activity
-               // cannot translate atm...
-               /*i18n.tr(*/"Run"/*)*/,
-               /*i18n.tr(*/"Bike Ride"/*)*/,
-               /*i18n.tr(*/"Walk"/*)*/,
-               /*i18n.tr(*/"Drive"/*)*/,
-               /*i18n.tr(*/"Hike"/*)*/
-               ]
-               // onExpansionCompleted: tf.focus = true
-=======
                selectedIndex: selectedsport
                currentlyExpanded: selectedsport == -1
                delegate: selectorDelegate
@@ -326,7 +304,6 @@ Rectangle {
                // }
                // Component.onCompleted: console.log("selectedsport: "+selectedsport+"\n è definito? "+(selectedsport?true:false)+"\ntypeof"+typeof selectedsport)
                onDelegateClicked: selectedsport=index
->>>>>>> origin/master
             }
             // Component {
             //    id: selectorDelegate

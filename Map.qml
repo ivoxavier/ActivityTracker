@@ -1,25 +1,15 @@
 import QtQuick 2.4
-<<<<<<< HEAD:QMLMap.qml
-import QtPositioning 5.3
-=======
 import QtPositioning 5.9
->>>>>>> origin/master:Map.qml
 import Ubuntu.Components 1.3
 import QtQuick.Layouts 1.1
 import io.thp.pyotherside 1.4
 import QtSystemInfo 5.0
-<<<<<<< HEAD:QMLMap.qml
-import QtLocation 5.3
-=======
 import QtLocation 5.9
->>>>>>> origin/master:Map.qml
 import Ubuntu.Components.ListItems 1.3 as ListItem
 import Ubuntu.Components.Popups 1.3
 import "./lib/polyline.js" as Pl
 import Ubuntu.Web 0.2
 import "oba.js" as K
-
-
 
 Page {
    header: PageHeader {

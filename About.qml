@@ -35,11 +35,7 @@ Page {
             }
 
             Text {
-<<<<<<< HEAD
-               text: i18n.tr("Version") + " 0.3.1"
-=======
                text: i18n.tr("Version") + " 0.11"
->>>>>>> origin/master
                anchors.horizontalCenter: parent.horizontalCenter
             }
          }

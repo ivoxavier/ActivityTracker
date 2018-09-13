@@ -7,13 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-<<<<<<< HEAD
-"POT-Creation-Date: 2018-08-22 14:04+0000\n"
-"PO-Revision-Date: 2018-08-22 16:34+0200\n"
-=======
 "POT-Creation-Date: 2018-09-02 17:01+0000\n"
 "PO-Revision-Date: 2018-09-02 19:02+0200\n"
->>>>>>> origin/master
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: it\n"
@@ -59,17 +54,6 @@ msgstr "Attività in Corso"
 msgid "New Activity"
 msgstr "Nuova Attività"
 
-<<<<<<< HEAD
-#: ../Tracker.qml:45
-msgid "Do you want to cancel the activity?"
-msgstr "Vuoi cancellare l'attività?"
-
-#: ../Tracker.qml:48
-msgid "Yes, cancel"
-msgstr "Si, cancella"
-
-#: ../Tracker.qml:66
-=======
 #: ../Tracker.qml:117
 msgid "Do you want to cancel the activity?"
 msgstr "Vuoi cancellare l'attività?"
@@ -79,53 +63,12 @@ msgid "Yes, cancel"
 msgstr "Si, cancella"
 
 #: ../Tracker.qml:138
->>>>>>> origin/master
 msgid "No, continue"
 msgstr "No, continua"
 
 #: ../Tracker.qml:176 ../Tracker.qml:181
 msgid "No data"
 msgstr "No data"
-<<<<<<< HEAD
-
-#: ../Tracker.qml:170
-msgid "Do you want to stop the recording?"
-msgstr "Vuoi fermare la registrazione?"
-
-#: ../Tracker.qml:172
-msgid "Yes, Stop!"
-msgstr "Si, Ferma!"
-
-#: ../Tracker.qml:182
-msgid "No, Continue"
-msgstr "No, Continua"
-
-#: ../Tracker.qml:193
-msgid "Select the type and the name of your activity"
-msgstr "Scegli il tipo e il nome della tua attività"
-
-#: ../Tracker.qml:196
-msgid "Name"
-msgstr "Nome"
-
-#: ../Tracker.qml:209
-msgid "Activity Type"
-msgstr "Tipo di Attività"
-
-#: ../Tracker.qml:225
-msgid "Save"
-msgstr "Salva"
-
-#: ../Tracker.qml:263
-msgid "Cancel"
-msgstr "Annulla"
-
-#: ../Tracker.qml:313
-msgid "Start"
-msgstr "Inizia"
-
-#: ../Tracker.qml:334
-=======
 
 #: ../Tracker.qml:242
 msgid "Do you want to stop the recording?"
@@ -168,7 +111,6 @@ msgid "Start"
 msgstr "Inizia"
 
 #: ../Tracker.qml:418
->>>>>>> origin/master
 msgid "Stop"
 msgstr "Ferma"
 
@@ -205,8 +147,6 @@ msgid ""
 msgstr ""
 "Grazie a %1 per le icone basate su:<br>%3 di %8 di %2,<br>%4 di %9 di %2,<br>"
 "%5 di %10 di %2,<br>%6 di %11 di %2,<br>%7 di %12 di %2"
-<<<<<<< HEAD
-=======
 
 #: ../About.qml:116
 msgid "Translate this app on Weblate!"
@@ -215,7 +155,6 @@ msgstr "Traduci quest'app su Weblate!"
 #: ../About.qml:125
 msgid "Support Weblate"
 msgstr "Supporta Weblate"
->>>>>>> origin/master
 
 #: ../Settings.qml:16 ../Main.qml:212
 msgid "Settings"
@@ -294,21 +233,6 @@ msgstr "Traccia una nuova attività"
 
 #~ msgid "Are you sure?"
 #~ msgstr "Sei sicuro?"
-<<<<<<< HEAD
-
-#~ msgid "Yes I'm sure"
-#~ msgstr "Si sono sicuro"
-
-#~ msgid "Stop Recording Activity?"
-#~ msgstr "Fermare la Registrazione dell'Attività?"
-
-#~ msgid "Source code available on "
-#~ msgstr "Codice sorgente disponibile su "
-
-#~ msgid "Bike Ride"
-#~ msgstr "Giro in Bici"
-=======
->>>>>>> origin/master
 
 #~ msgid "Yes I'm sure"
 #~ msgstr "Si sono sicuro"
