@@ -1,10 +1,10 @@
 import QtQuick 2.4
-import QtPositioning 5.9
+import QtPositioning 5.4
 import Ubuntu.Components 1.3
 import QtQuick.Layouts 1.1
 import io.thp.pyotherside 1.4
 import QtSystemInfo 5.0
-import QtLocation 5.9
+import QtLocation 5.4
 //import Ubuntu.Components.ListItems 1.3 as ListItem
 import Ubuntu.Components.Popups 1.3
 import "./lib/polyline.js" as Pl
@@ -271,7 +271,7 @@ MainView {
             ListItemLayout {
                ProportionalShape {
                   SlotsLayout.position: SlotsLayout.Leading
-                  source: Image { source: "images/"+act_type+".svg" }
+                  source: Image { source: "images/"+(act_type=="Bike Ride"?"BikeRide":act_type)+".svg" } //Legacy, old act_type was "Bike Ride" substituted with "bikeRide"
                   height: del.height-units.gu(2)
                   aspect: UbuntuShape.DropShadow
                }
