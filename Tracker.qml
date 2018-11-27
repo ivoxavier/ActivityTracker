@@ -158,7 +158,6 @@ Rectangle {
          anchors.fill: parent
          center: src.position.coordinate
          zoomLevel: map.maximumZoomLevel - 2
-         color: Theme.palette.normal.background
          plugin : Plugin {
             id: plugin
             allowExperimental: true

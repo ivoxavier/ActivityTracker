@@ -57,7 +57,6 @@ Page {
       anchors.fill: parent
       center: QtPositioning.coordinate(29.62289936, -95.64410114) // Oslo
       zoomLevel: map.maximumZoomLevel - 5
-      color: Theme.palette.normal.background
       plugin : Plugin {
          id: plugin
          allowExperimental: true
