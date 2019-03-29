@@ -8,29 +8,32 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-15 15:08+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-03-30 21:03+0000\n"
+"Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"activity-tracker/translations/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #: ../SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr ""
+msgstr "Escolha o esporte:"
 
 #: ../SportSelectPopUp.qml:21
 msgid "After"
-msgstr ""
+msgstr "Depois"
 
 #: ../Tracker.qml:28
 msgid "Activity in Progress"
-msgstr ""
+msgstr "Atividade decorrendo"
 
 #: ../Tracker.qml:28
 msgid "New Activity"
-msgstr ""
+msgstr "Nova atividade"
 
 #: ../Tracker.qml:66
 msgid "Do you want to cancel the activity?"
@@ -38,15 +41,15 @@ msgstr ""
 
 #: ../Tracker.qml:69
 msgid "Yes, cancel"
-msgstr ""
+msgstr "Sim, cancelar"
 
 #: ../Tracker.qml:88
 msgid "No, continue"
-msgstr ""
+msgstr "Não, continuar"
 
 #: ../Tracker.qml:126 ../Tracker.qml:131
 msgid "No data"
-msgstr ""
+msgstr "Sem dados"
 
 #: ../Tracker.qml:193
 msgid "Do you want to stop the recording?"
@@ -54,11 +57,11 @@ msgstr ""
 
 #: ../Tracker.qml:195
 msgid "Yes, Stop!"
-msgstr ""
+msgstr "Sim, parar!"
 
 #: ../Tracker.qml:214
 msgid "No, Continue"
-msgstr ""
+msgstr "Não, continuar"
 
 #: ../Tracker.qml:226 ../Main.qml:254
 msgid "Select the type and the name of your activity"
@@ -66,23 +69,23 @@ msgstr ""
 
 #: ../Tracker.qml:294
 msgid "Start"
-msgstr ""
+msgstr "Iniciar"
 
 #: ../Tracker.qml:315
 msgid "Stop"
-msgstr ""
+msgstr "Parar"
 
 #: ../Map.qml:18
 msgid "Activity Map"
-msgstr ""
+msgstr "Mapa de atividade"
 
 #: ../Map.qml:21
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: ../ImportPage.qml:34
 msgid "Choose"
-msgstr ""
+msgstr "Escolher"
 
 #: ../components/Sports.qml:7
 msgid "Run"
@@ -106,27 +109,27 @@ msgstr ""
 
 #: ../ActivityDialog.qml:16
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: ../ActivityDialog.qml:19
 msgid "Select a sport below"
-msgstr ""
+msgstr "Selecione um esporte abaixo"
 
 #: ../ActivityDialog.qml:29
 msgid "Activity Type"
-msgstr ""
+msgstr "Tipo de atividade"
 
 #: ../ActivityDialog.qml:39
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: ../ActivityDialog.qml:53
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../About.qml:8 ../Main.qml:230
 msgid "About"
-msgstr ""
+msgstr "Acerca"
 
 #: ../About.qml:37
 msgid "Activity Tracker"
@@ -134,7 +137,7 @@ msgstr ""
 
 #: ../About.qml:43
 msgid "Version"
-msgstr ""
+msgstr "Versão"
 
 #: ../About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
@@ -165,7 +168,7 @@ msgstr ""
 
 #: ../Settings.qml:30
 msgid "Units"
-msgstr ""
+msgstr "Unidades"
 
 #: ../Settings.qml:47
 msgid "Log a point every:"
@@ -173,7 +176,7 @@ msgstr ""
 
 #: ../Settings.qml:49
 msgid "between 50 and 3600000"
-msgstr ""
+msgstr "entre 50 e 3600000"
 
 #. TRANSLATORS: millisecond abbreviation
 #: ../Settings.qml:90
@@ -182,19 +185,19 @@ msgstr ""
 
 #: ../Main.qml:139 ../Main.qml:142
 msgid "Distance: "
-msgstr ""
+msgstr "Distância: "
 
 #: ../Main.qml:145
 msgid "Time: "
-msgstr ""
+msgstr "Tempo: "
 
 #: ../Main.qml:221
 msgid "Recent Activities"
-msgstr ""
+msgstr "Atividades recentes"
 
 #: ../Main.qml:235
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: ../Main.qml:269
 msgid "Edit the type and the name of your activity"
@@ -202,7 +205,7 @@ msgstr ""
 
 #: ../Main.qml:290
 msgid "No saved activities"
-msgstr ""
+msgstr "Sem atividades salvas"
 
 #: ../Main.qml:293
 msgid "Swipe up to log a new activity"
@@ -210,11 +213,11 @@ msgstr ""
 
 #: ../Main.qml:375
 msgid "Track information"
-msgstr ""
+msgstr "Informação do percurso"
 
 #: ../Main.qml:389
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: ../Main.qml:400
 msgid "Log new Activity"
