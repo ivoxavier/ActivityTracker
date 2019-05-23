@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-11 16:17+0000\n"
 "PO-Revision-Date: 2019-06-20 07:01+0000\n"
-"Last-Translator: Dario Molina <dmolina@kenwin.net>\n"
+"Last-Translator: Antonio Gulino <antonio2@gulino.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/de/>\n"
 "Language: de\n"
@@ -110,7 +110,7 @@ msgstr "Ja, abbrechen"
 
 #: ../Tracker.qml:139
 msgid "No, continue"
-msgstr "No, fortsetzen"
+msgstr "Nein, fortsetzen"
 
 #: ../Tracker.qml:177 ../Tracker.qml:182
 msgid "No data"
@@ -215,7 +215,7 @@ msgstr "Weg Information"
 
 #: ../Main.qml:528
 msgid "close"
-msgstr "schließen"
+msgstr "Schließen"
 
 #: ../Main.qml:540
 msgid "Log new Activity"
