@@ -8,141 +8,148 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-15 15:08+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-06-20 07:01+0000\n"
+"Last-Translator: M. Fatih Uluçam <mulucam@gmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/activity-tracker/"
+"translations/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.7\n"
 
 #: ../SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr ""
+msgstr "Spor seç:"
 
 #: ../SportSelectPopUp.qml:21
 msgid "After"
-msgstr ""
+msgstr "Sonra"
 
 #: ../Tracker.qml:28
 msgid "Activity in Progress"
-msgstr ""
+msgstr "Devam eden etkinlik"
 
 #: ../Tracker.qml:28
 msgid "New Activity"
-msgstr ""
+msgstr "Yeni Etkinlik"
 
 #: ../Tracker.qml:66
 msgid "Do you want to cancel the activity?"
-msgstr ""
+msgstr "Etkinliği iptal etmek istiyor musunuz?"
 
 #: ../Tracker.qml:69
 msgid "Yes, cancel"
-msgstr ""
+msgstr "Evet, iptal et"
 
 #: ../Tracker.qml:88
 msgid "No, continue"
-msgstr ""
+msgstr "Hayır, devam et"
 
 #: ../Tracker.qml:126 ../Tracker.qml:131
 msgid "No data"
-msgstr ""
+msgstr "Veri yok"
 
 #: ../Tracker.qml:193
 msgid "Do you want to stop the recording?"
-msgstr ""
+msgstr "Kaydı durdurmak istiyor musunuz?"
 
 #: ../Tracker.qml:195
 msgid "Yes, Stop!"
-msgstr ""
+msgstr "Evet, Durdur!"
 
 #: ../Tracker.qml:214
 msgid "No, Continue"
-msgstr ""
+msgstr "Hayır, Devam et"
 
 #: ../Tracker.qml:226 ../Main.qml:254
 msgid "Select the type and the name of your activity"
-msgstr ""
+msgstr "Faaliyetinizin türünü ve adını seçin"
 
 #: ../Tracker.qml:294
 msgid "Start"
-msgstr ""
+msgstr "Başla"
 
 #: ../Tracker.qml:315
 msgid "Stop"
-msgstr ""
+msgstr "Dur"
 
 #: ../Map.qml:18
 msgid "Activity Map"
-msgstr ""
+msgstr "Etkinlik Haritası"
 
 #: ../Map.qml:21
 msgid "Info"
-msgstr ""
+msgstr "Bilgi"
 
 #: ../ImportPage.qml:34
 msgid "Choose"
-msgstr ""
+msgstr "Tercihiniz"
 
 #: ../components/Sports.qml:7
 msgid "Run"
-msgstr ""
+msgstr "Koşu"
 
 #: ../components/Sports.qml:8
 msgid "BikeRide"
-msgstr ""
+msgstr "Bisiklet Sürmek"
 
 #: ../components/Sports.qml:9
 msgid "Walk"
-msgstr ""
+msgstr "Yürüyüş"
 
 #: ../components/Sports.qml:10
 msgid "Drive"
-msgstr ""
+msgstr "Araç kullanmak"
 
 #: ../components/Sports.qml:11
 msgid "Hike"
-msgstr ""
+msgstr "Gezinti"
 
 #: ../ActivityDialog.qml:16
 msgid "Name"
-msgstr ""
+msgstr "İsim"
 
 #: ../ActivityDialog.qml:19
 msgid "Select a sport below"
-msgstr ""
+msgstr "Listeden bir spor seçin"
 
 #: ../ActivityDialog.qml:29
 msgid "Activity Type"
-msgstr ""
+msgstr "Etkinlik Türü"
 
 #: ../ActivityDialog.qml:39
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 #: ../ActivityDialog.qml:53
 msgid "Cancel"
-msgstr ""
+msgstr "İptal et"
 
 #: ../About.qml:8 ../Main.qml:230
 msgid "About"
-msgstr ""
+msgstr "Hakkında"
 
 #: ../About.qml:37
 msgid "Activity Tracker"
-msgstr ""
+msgstr "Etkinlik Izleyicisi"
 
 #: ../About.qml:43
 msgid "Version"
-msgstr ""
+msgstr "Sürüm"
 
 #: ../About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
 msgstr ""
+"GNU GPL v3 koşulları altında piyasaya sürüldü. <br> kaynak kodu "
+"kullanılabilir"
 
 #: ../About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
 msgstr ""
+"Simgelerin bir bölümü %2 öğesinden%1 tarafından yapılır ve %3 tarafından "
+"lisanslanmıştır"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
 #: ../About.qml:103
@@ -153,19 +160,19 @@ msgstr ""
 
 #: ../About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr ""
+msgstr "Weblate bu uygulamayı çevir!"
 
 #: ../About.qml:133
 msgid "Support Weblate"
-msgstr ""
+msgstr "Weblate Destek"
 
 #: ../Settings.qml:16 ../Main.qml:225
 msgid "Settings"
-msgstr ""
+msgstr "Ayarlar"
 
 #: ../Settings.qml:30
 msgid "Units"
-msgstr ""
+msgstr "Birimler"
 
 #: ../Settings.qml:47
 msgid "Log a point every:"
@@ -173,40 +180,40 @@ msgstr ""
 
 #: ../Settings.qml:49
 msgid "between 50 and 3600000"
-msgstr ""
+msgstr "50 ile 3600000 arasında"
 
 #. TRANSLATORS: millisecond abbreviation
 #: ../Settings.qml:90
 msgid "ms"
-msgstr ""
+msgstr "Bayan"
 
 #: ../Main.qml:139 ../Main.qml:142
 msgid "Distance: "
-msgstr ""
+msgstr "Mesafe: "
 
 #: ../Main.qml:145
 msgid "Time: "
-msgstr ""
+msgstr "Zaman: "
 
 #: ../Main.qml:221
 msgid "Recent Activities"
-msgstr ""
+msgstr "Son Etkinlikler"
 
 #: ../Main.qml:235
 msgid "Import"
-msgstr ""
+msgstr "İçe aktar"
 
 #: ../Main.qml:269
 msgid "Edit the type and the name of your activity"
-msgstr ""
+msgstr "Faaliyetinizin türünü ve adını düzenleyin"
 
 #: ../Main.qml:290
 msgid "No saved activities"
-msgstr ""
+msgstr "Kaydedilmiş aktivite yok"
 
 #: ../Main.qml:293
 msgid "Swipe up to log a new activity"
-msgstr ""
+msgstr "Yeni bir aktivite kaydetmek için yukarı kaydırın"
 
 #: ../Main.qml:375
 msgid "Track information"
@@ -214,8 +221,8 @@ msgstr ""
 
 #: ../Main.qml:389
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: ../Main.qml:400
 msgid "Log new Activity"
-msgstr ""
+msgstr "Günlük yeni Etkinlik"
