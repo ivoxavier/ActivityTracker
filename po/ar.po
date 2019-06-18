@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-11 16:17+0000\n"
 "PO-Revision-Date: 2019-06-20 07:01+0000\n"
-"Last-Translator: mome7 <mome7@msn.com>\n"
+"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ar/>\n"
 "Language: ar\n"
@@ -57,11 +57,11 @@ msgstr ""
 
 #: ../About.qml:116
 msgid "Translate this app on Weblate!"
-msgstr ""
+msgstr "ترجم هذا التطبيق على Weblate!"
 
 #: ../About.qml:125
 msgid "Support Weblate"
-msgstr ""
+msgstr "ادعم Weblate"
 
 #: ../Tracker.qml:14 ../Main.qml:45
 msgid "Run"
