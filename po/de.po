@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-11 16:17+0000\n"
-"PO-Revision-Date: 2019-06-20 07:01+0000\n"
-"Last-Translator: Antonio Gulino <antonio2@gulino.org>\n"
+"PO-Revision-Date: 2019-06-21 10:01+0000\n"
+"Last-Translator: Arnaud Mondelin <arnaudmondelin@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/de/>\n"
 "Language: de\n"
@@ -24,6 +24,7 @@ msgid "Activity Map"
 msgstr "Aktivitätskarteasdasd"
 
 #: ../ImportPage.qml:34
+#, fuzzy
 msgid "Choose"
 msgstr "Auswählenasdasdasdasd"
 
