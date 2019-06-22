@@ -7,6 +7,15 @@ The app has been upgraded by Michele and Ernes_t to work only on 16.04 Ubuntu To
 Due to older QML lib on 15.04, the changes cannot be retrofitted.
 
 ## Majors changes 0.12:
+- Add the possibility to calibrate the altitude,
+- Remove JavaScript lib,
+- Thanks to the contributors to update translation.
+
+## Majors changes 0.13:
+- TBD
+- Thanks to the contributors to update translation.
+
+## Majors changes 0.12:
 - Improved sport selection
 - Missing appname substitution and removed unused images
 - Back to appname cwayne18, UX and translation improvements. Updated it.po
