@@ -82,6 +82,11 @@ MainView {
       return distance
    }
 
+   function formatAlt(Alti) {
+      Alti = Alti.toFixed(0) + "m"
+      return Alti
+   }
+
    function formatSpeed(speed) {
       if (runits == "miles"){
          var mi
