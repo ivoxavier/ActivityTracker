@@ -91,11 +91,11 @@ MainView {
       if (runits == "miles"){
          var mi
          mi = speed * 0.62137 / 1000 * 3600
-         speed = mi.toFixed(1) + "mi/h"
+         speed = mi.toFixed(0) + "mi/h"
       }
       else if (runits == "kilometers"){
          speed = speed / 1000 * 3600
-         speed = speed.toFixed(1) + "km/h"
+         speed = speed.toFixed(0) + "km/h"
       }
       return speed
    }
