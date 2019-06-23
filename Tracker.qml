@@ -123,7 +123,7 @@ Rectangle {
                   //console.warn(pygpx.current_distance(gpxx))
                }
                if (src.position.altitudeValid) {
-                  altlabel.text = formatDist(altitudeCorrected)
+                  altlabel.text = formatAlt(altitudeCorrected)
                } else {
                   altlabel.text = i18n.tr("No data")
                }

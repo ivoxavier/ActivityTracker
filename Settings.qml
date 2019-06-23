@@ -7,7 +7,6 @@ import Ubuntu.Components.Popups 1.3
 import Ubuntu.Components.Pickers 1.3
 
 
-
 Page {
    title: "PickerPanel"
    header: PageHeader {
