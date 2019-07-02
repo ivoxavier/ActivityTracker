@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-11 16:17+0000\n"
-"PO-Revision-Date: 2019-06-20 07:01+0000\n"
-"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
+"PO-Revision-Date: 2019-07-03 20:02+0000\n"
+"Last-Translator: George Abodeeb <georgeabodeeb@hotmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ar/>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.7\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #: ../Map.qml:18
 msgid "Activity Map"
@@ -42,11 +42,11 @@ msgstr "الإصدار"
 
 #: ../About.qml:74
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
-msgstr ""
+msgstr "صدر بموجب شروط GNU GPL v3. <br> شفرة المصدر متاحة على"
 
 #: ../About.qml:82
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
-msgstr ""
+msgstr "تم إنشاء جزء من الرموز بنسبة٪ 1 من٪ 2 تم ترخيصه بواسطة٪ 3"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
 #: ../About.qml:95
@@ -81,7 +81,7 @@ msgstr "سيارة"
 
 #: ../Tracker.qml:18 ../Main.qml:49
 msgid "Hike"
-msgstr ""
+msgstr "رفع"
 
 #: ../Tracker.qml:29 ../Main.qml:274
 msgid "Choose sport:"
