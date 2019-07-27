@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-15 15:08+0000\n"
 "PO-Revision-Date: 2019-08-01 05:14+0000\n"
-"Last-Translator: Mesut Akcan <makcan@gmail.com>\n"
+"Last-Translator: Mantar Kafalı <s2msonic@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/tr/>\n"
 "Language: tr\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr "Spor seç:"
+msgstr "Spor dalı seçin:"
 
 #: ../SportSelectPopUp.qml:21
 msgid "After"
