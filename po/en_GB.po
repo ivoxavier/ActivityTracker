@@ -8,125 +8,128 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-15 15:08+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-08-16 15:24+0000\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
+"Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
+"activity-tracker/translations/en_GB/>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.8\n"
 
 #: ../SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr ""
+msgstr "Escolher desporto:"
 
 #: ../SportSelectPopUp.qml:21
 msgid "After"
-msgstr ""
+msgstr "Depois"
 
 #: ../Tracker.qml:28
 msgid "Activity in Progress"
-msgstr ""
+msgstr "Atividade em Progresso"
 
 #: ../Tracker.qml:28
 msgid "New Activity"
-msgstr ""
+msgstr "Nova Atividade"
 
 #: ../Tracker.qml:66
 msgid "Do you want to cancel the activity?"
-msgstr ""
+msgstr "Deseja cancelar a atividade?"
 
 #: ../Tracker.qml:69
 msgid "Yes, cancel"
-msgstr ""
+msgstr "Sim, cancelar"
 
 #: ../Tracker.qml:88
 msgid "No, continue"
-msgstr ""
+msgstr "Não, continuar"
 
 #: ../Tracker.qml:126 ../Tracker.qml:131
 msgid "No data"
-msgstr ""
+msgstr "Sem dados"
 
 #: ../Tracker.qml:193
 msgid "Do you want to stop the recording?"
-msgstr ""
+msgstr "Deseja parar a gravação?"
 
 #: ../Tracker.qml:195
 msgid "Yes, Stop!"
-msgstr ""
+msgstr "Sim, parar!"
 
 #: ../Tracker.qml:214
 msgid "No, Continue"
-msgstr ""
+msgstr "Não, continuar"
 
 #: ../Tracker.qml:226 ../Main.qml:254
 msgid "Select the type and the name of your activity"
-msgstr ""
+msgstr "Selecione o tipo e o nome da sua atividadde"
 
 #: ../Tracker.qml:294
 msgid "Start"
-msgstr ""
+msgstr "Iniciar"
 
 #: ../Tracker.qml:315
 msgid "Stop"
-msgstr ""
+msgstr "Parar"
 
 #: ../Map.qml:18
 msgid "Activity Map"
-msgstr ""
+msgstr "Mapa de Atividades"
 
 #: ../Map.qml:21
 msgid "Info"
-msgstr ""
+msgstr "Informação"
 
 #: ../ImportPage.qml:34
 msgid "Choose"
-msgstr ""
+msgstr "Escolher"
 
 #: ../components/Sports.qml:7
 msgid "Run"
-msgstr ""
+msgstr "Correr"
 
 #: ../components/Sports.qml:8
 msgid "BikeRide"
-msgstr ""
+msgstr "Andar Bicicleta"
 
 #: ../components/Sports.qml:9
 msgid "Walk"
-msgstr ""
+msgstr "Caminhar"
 
 #: ../components/Sports.qml:10
 msgid "Drive"
-msgstr ""
+msgstr "Conduzir"
 
 #: ../components/Sports.qml:11
 msgid "Hike"
-msgstr ""
+msgstr "Caminhada"
 
 #: ../ActivityDialog.qml:16
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: ../ActivityDialog.qml:19
 msgid "Select a sport below"
-msgstr ""
+msgstr "Selecione um desporto em baixo"
 
 #: ../ActivityDialog.qml:29
 msgid "Activity Type"
-msgstr ""
+msgstr "Tipo de Atividade"
 
 #: ../ActivityDialog.qml:39
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: ../ActivityDialog.qml:53
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../About.qml:8 ../Main.qml:230
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 #: ../About.qml:37
 msgid "Activity Tracker"
@@ -134,7 +137,7 @@ msgstr ""
 
 #: ../About.qml:43
 msgid "Version"
-msgstr ""
+msgstr "Versão"
 
 #: ../About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
@@ -161,11 +164,11 @@ msgstr ""
 
 #: ../Settings.qml:16 ../Main.qml:225
 msgid "Settings"
-msgstr ""
+msgstr "Definições"
 
 #: ../Settings.qml:30
 msgid "Units"
-msgstr ""
+msgstr "Unidades"
 
 #: ../Settings.qml:47
 msgid "Log a point every:"
@@ -178,23 +181,23 @@ msgstr ""
 #. TRANSLATORS: millisecond abbreviation
 #: ../Settings.qml:90
 msgid "ms"
-msgstr ""
+msgstr "ms"
 
 #: ../Main.qml:139 ../Main.qml:142
 msgid "Distance: "
-msgstr ""
+msgstr "Distância "
 
 #: ../Main.qml:145
 msgid "Time: "
-msgstr ""
+msgstr "Hora: "
 
 #: ../Main.qml:221
 msgid "Recent Activities"
-msgstr ""
+msgstr "Atividades Recentes"
 
 #: ../Main.qml:235
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: ../Main.qml:269
 msgid "Edit the type and the name of your activity"
@@ -214,8 +217,8 @@ msgstr ""
 
 #: ../Main.qml:389
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: ../Main.qml:400
 msgid "Log new Activity"
-msgstr ""
+msgstr "Registar nova Atividade"
