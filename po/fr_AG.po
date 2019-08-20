@@ -8,101 +8,104 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-15 15:08+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-08-21 15:24+0000\n"
+"Last-Translator: Katerina Katapodi <katerinakatapodi@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/activity-tracker/"
+"translations/fr_AG/>\n"
 "Language: fr_AG\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: ../SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr ""
+msgstr "Choisissez sport:"
 
 #: ../SportSelectPopUp.qml:21
 msgid "After"
-msgstr ""
+msgstr "Après"
 
 #: ../Tracker.qml:28
 msgid "Activity in Progress"
-msgstr ""
+msgstr "Activité en Progrès"
 
 #: ../Tracker.qml:28
 msgid "New Activity"
-msgstr ""
+msgstr "Nouvelle Activité"
 
 #: ../Tracker.qml:66
 msgid "Do you want to cancel the activity?"
-msgstr ""
+msgstr "Voulez Vous annuler l'activité?"
 
 #: ../Tracker.qml:69
 msgid "Yes, cancel"
-msgstr ""
+msgstr "Oui,annulez"
 
 #: ../Tracker.qml:88
 msgid "No, continue"
-msgstr ""
+msgstr "Non,continuez"
 
 #: ../Tracker.qml:126 ../Tracker.qml:131
 msgid "No data"
-msgstr ""
+msgstr "Pas de données"
 
 #: ../Tracker.qml:193
 msgid "Do you want to stop the recording?"
-msgstr ""
+msgstr "Voulez Vous arreter le procès d'enregistrement?"
 
 #: ../Tracker.qml:195
 msgid "Yes, Stop!"
-msgstr ""
+msgstr "Oui, Arretez!"
 
 #: ../Tracker.qml:214
 msgid "No, Continue"
-msgstr ""
+msgstr "Non, Continuez"
 
 #: ../Tracker.qml:226 ../Main.qml:254
 msgid "Select the type and the name of your activity"
-msgstr ""
+msgstr "Séléctionnez le type et le nom de Votre activité"
 
 #: ../Tracker.qml:294
 msgid "Start"
-msgstr ""
+msgstr "Commencez"
 
 #: ../Tracker.qml:315
 msgid "Stop"
-msgstr ""
+msgstr "Arret"
 
 #: ../Map.qml:18
 msgid "Activity Map"
-msgstr ""
+msgstr "Mappe d'Activité"
 
 #: ../Map.qml:21
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: ../ImportPage.qml:34
 msgid "Choose"
-msgstr ""
+msgstr "Choisir"
 
 #: ../components/Sports.qml:7
 msgid "Run"
-msgstr ""
+msgstr "Opérer"
 
 #: ../components/Sports.qml:8
 msgid "BikeRide"
-msgstr ""
+msgstr "Tour à Bicyclette"
 
 #: ../components/Sports.qml:9
 msgid "Walk"
-msgstr ""
+msgstr "Marcher"
 
 #: ../components/Sports.qml:10
 msgid "Drive"
-msgstr ""
+msgstr "Conduire"
 
 #: ../components/Sports.qml:11
 msgid "Hike"
-msgstr ""
+msgstr "Hike"
 
 #: ../ActivityDialog.qml:16
 msgid "Name"
@@ -110,39 +113,39 @@ msgstr ""
 
 #: ../ActivityDialog.qml:19
 msgid "Select a sport below"
-msgstr ""
+msgstr "Séléctionnez un sport ci-dessous"
 
 #: ../ActivityDialog.qml:29
 msgid "Activity Type"
-msgstr ""
+msgstr "Type d' Activité"
 
 #: ../ActivityDialog.qml:39
 msgid "Save"
-msgstr ""
+msgstr "Sauver"
 
 #: ../ActivityDialog.qml:53
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: ../About.qml:8 ../Main.qml:230
 msgid "About"
-msgstr ""
+msgstr "Autour de"
 
 #: ../About.qml:37
 msgid "Activity Tracker"
-msgstr ""
+msgstr "Tracker d'Activité"
 
 #: ../About.qml:43
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: ../About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
-msgstr ""
+msgstr "Lance sous termes du GPL GNU v3.<br> Code source disponible à"
 
 #: ../About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
-msgstr ""
+msgstr "Une part des images est fait à %1 du %2 est licencié à %3"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
 #: ../About.qml:103
@@ -150,26 +153,28 @@ msgid ""
 "Thanks to %1 for the icons based on:<br>%3 by %8 from %2,<br>%4 by %9 from "
 "%2,<br>%5 by %10 from %2,<br>%6 by %11 from %2,<br>%7 by %12 from %2"
 msgstr ""
+"Grace au %1 des images basé sur:<br> un %3 à %8 par%2,<br>%4 à %9 du %2,<br>%"
+"5 à %10 par %2,<br>%6 à %11 par %2,<br>%7 à %12 par %2"
 
 #: ../About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr ""
+msgstr "Trqduisez cet app sur Weblate!"
 
 #: ../About.qml:133
 msgid "Support Weblate"
-msgstr ""
+msgstr "Aidez Weblate"
 
 #: ../Settings.qml:16 ../Main.qml:225
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: ../Settings.qml:30
 msgid "Units"
-msgstr ""
+msgstr "Unités"
 
 #: ../Settings.qml:47
 msgid "Log a point every:"
-msgstr ""
+msgstr "Log un point chaque:"
 
 #: ../Settings.qml:49
 msgid "between 50 and 3600000"
