@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-02 17:01+0000\n"
-"PO-Revision-Date: 2019-08-23 23:24+0000\n"
+"PO-Revision-Date: 2019-08-28 04:24+0000\n"
 "Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/it/>\n"
@@ -117,7 +117,7 @@ msgstr "Ferma"
 
 #: ../Map.qml:18
 msgid "Activity Map"
-msgstr "Mappa Attività"
+msgstr "Mappa attività"
 
 #: ../About.qml:7 ../Main.qml:217
 msgid "About"
