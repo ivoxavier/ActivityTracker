@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.actidev\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-12 21:22+0000\n"
-"PO-Revision-Date: 2019-08-23 23:24+0000\n"
+"PO-Revision-Date: 2019-08-28 04:24+0000\n"
 "Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/fr/>\n"
@@ -66,7 +66,7 @@ msgstr "Nouvelle activité"
 
 #: ../Tracker.qml:45
 msgid "Do you want to cancel the activity ?"
-msgstr "Voulez-vous annuler l'enregistrement ?"
+msgstr "Voulez-vous annuler l'activité ?"
 
 #: ../Tracker.qml:49
 msgid "Yes"
@@ -86,7 +86,7 @@ msgstr "Voulez-vous arrêter l'enregistrement de votre activité ?"
 
 #: ../Tracker.qml:176
 msgid "Yes, Stop!"
-msgstr "Oui, arrêt !"
+msgstr "Oui, arrêter !"
 
 #: ../Tracker.qml:187
 msgid "No, Continue"
