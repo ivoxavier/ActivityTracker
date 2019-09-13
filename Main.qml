@@ -162,7 +162,6 @@ MainView {
       }//addrun
       function writeit(gpx, name,act_type){
          console.warn("Writing file")
-         //var b = Pl.polyline;
          call('geepeeex.write_gpx', [gpxx,name,act_type])
       }//writeit
       function import_run(importfile, name,act_type){

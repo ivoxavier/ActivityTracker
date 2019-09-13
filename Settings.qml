@@ -82,7 +82,7 @@ Page {
          ListItemLayout {
             id: altitudeOffsetLayout
             title.text: i18n.tr("Altitude offset:")
-            summary.text: i18n.tr("between 0 and 100")
+            summary.text: i18n.tr("between -100 and 100")
                TextField {
                   id: altitudeOffsetField
                   color: !acceptableInput ? UbuntuColors.red : theme.palette.normal.backgroundText
@@ -90,18 +90,18 @@ Page {
                   inputMethodHints: Qt.ImhDigitsOnly
                   hasClearButton:false
                   validator: IntValidator {
-                     bottom:0;
+                     bottom:-100;
                      top:100;
                   }
                   width: units.gu(length>0?length:placeholderText.length)+units.gu(2.75)
                   SlotsLayout.position:SlotsLayout.Trailing
                   onTextChanged: {
                      if (acceptableInput)
-                     persistentSettings.altitudeOffset = text/**1000*/ | 0
+                     persistentSettings.altitudeOffset = text | 0
                      else if (length==0)
                      persistentSettings.altitudeOffset = 0 //default value
                   }
-                  Component.onCompleted: text = persistentSettings.altitudeOffset///1000
+                  Component.onCompleted: text = persistentSettings.altitudeOffset
                }
             Label {
                text:i18n.tr("meter(s)");
