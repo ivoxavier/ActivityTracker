@@ -5,9 +5,7 @@ import QtQuick.Layouts 1.1
 import io.thp.pyotherside 1.5
 import QtSystemInfo 5.0
 import QtLocation 5.9
-//import Ubuntu.Components.ListItems 1.3 as ListItem
 import Ubuntu.Components.Popups 1.3
-import "./lib/polyline.js" as Pl
 import Qt.labs.settings 1.0
 import Ubuntu.Content 1.3
 import "components"
@@ -40,6 +38,7 @@ MainView {
    property string timestring : "00:00"
    property string smashkey;
    property string dist;
+   property bool filtered: false
    Sports {id:sportsComp}
 
    //keep screen on while tracking an activity so we still get to read GPS
@@ -50,7 +49,10 @@ MainView {
    Settings {
       id: persistentSettings
       property int pointsInterval: 5000
+      property int altitudeOffset: 0
       // onPointsIntervalChanged: {/*console.log("pointsInterval has changed: "+pointsInterval);*/loggingpoints.interval = pointsInterval}
+      //onaltitudeOffsetChanged: {console.log("altitudeOffset has changed: "+altitudeOffset)}
+
    }
 
    function stopwatch(seconds) {
@@ -81,21 +83,31 @@ MainView {
       return distance
    }
 
+   function formatAlt(Alti) {
+      Alti = Alti.toFixed(0) + "m"
+      return Alti
+   }
+
    function formatSpeed(speed) {
       if (runits == "miles"){
          var mi
          mi = speed * 0.62137 / 1000 * 3600
-         speed = mi.toFixed(1) + "mi/h"
+         speed = mi.toFixed(0) + "mi/h"
       }
       else if (runits == "kilometers"){
          speed = speed / 1000 * 3600
-         speed = speed.toFixed(1) + "km/h"
+         speed = speed.toFixed(0) + "km/h"
       }
       return speed
    }
 
    ListModel {
       id: listModel
+   }
+   SortFilterModel {
+      id: filteredModel
+      model: listModel
+      filter.property: "act_type"
    }
    onRunitsChanged: {
       listModel.clear()
@@ -111,7 +123,7 @@ MainView {
             call('geepeeex.onetime_db_fix_again_cus_im_dumb',[])
             get_units(result)
          };
-         addImportPath(Qt.resolvedUrl('py/'));
+         addImportPath(Qt.resolvedUrl('../py/'));
          importModule('geepeeex', loadit);
          console.warn('imported gpxpy');
          importModule('gpximport', loadit);
@@ -156,7 +168,6 @@ MainView {
       }//addrun
       function writeit(gpx, name,act_type){
          console.warn("Writing file")
-         var b = Pl.polyline;
          call('geepeeex.write_gpx', [gpxx,name,act_type])
       }//writeit
       function import_run(importfile, name,act_type){
@@ -227,9 +238,9 @@ MainView {
             onTriggered: stack.push(Qt.resolvedUrl("Settings.qml"))
          },
          Action {
-            text: i18n.tr("About")
-            iconName: "info"
-            onTriggered: stack.push(Qt.resolvedUrl("About.qml"))
+            text: i18n.tr("Filter")
+            iconName: "filters"
+            onTriggered: filtered = ! filtered
           },
          Action {
             text: i18n.tr("Import")
@@ -244,6 +255,17 @@ MainView {
           }//trigger
         }//Action
       ]
+      extension: Sections {
+         visible: filtered
+         height: visible ? implicitHeight : 0
+         model: sportsComp.translated
+         anchors {
+            left: parent.left
+            right: parent.right
+         }
+         onSelectedIndexChanged: filteredModel.filter.pattern = new RegExp(sportsComp.name[selectedIndex], 'i')
+         onVisibleChanged: filteredModel.filter.pattern = new RegExp(sportsComp.name[selectedIndex], 'i')
+      }
     }//PageHeader
 
        Component {
@@ -288,7 +310,7 @@ MainView {
          color: "transparent"
          EmptyState {
             title: i18n.tr("No saved activities")
-            iconSource: Qt.resolvedUrl("./images/runman.svg")
+            iconSource: Qt.resolvedUrl("../images/runman.svg")
             iconColor: Theme.palette.normal.backgroundText
             subTitle: i18n.tr("Swipe up to log a new activity")
             anchors.centerIn: parent
@@ -311,7 +333,7 @@ MainView {
          height: parent.height
          clip:true
          id:thelist
-         model: listModel
+         model: filtered ? filteredModel : listModel
          // let refresh control know when the refresh gets completed
          // pullToRefresh {
          //    enabled: false
@@ -326,7 +348,7 @@ MainView {
             ListItemLayout {
                ProportionalShape {
                   SlotsLayout.position: SlotsLayout.Leading
-                  source: Image { source: "images/"+(act_type=="Bike Ride"?"BikeRide":act_type)+".svg" } //Legacy, old act_type was "Bike Ride" substituted with "BikeRide"
+                  source: Image { source: "../images/"+(act_type=="Bike Ride"?"BikeRide":act_type)+".svg" } //Legacy, old act_type was "Bike Ride" substituted with "BikeRide"
                   height: del.height-units.gu(2)
                   aspect: UbuntuShape.DropShadow
                }
@@ -398,7 +420,7 @@ MainView {
          id:newrunEdge
          hint {
             text: i18n.tr("Log new Activity")
-            iconSource: "images/runman.svg"
+            iconSource: "../images/runman.svg"
             status: "Active"
             flickable: thelist
          }
