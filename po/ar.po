@@ -197,7 +197,6 @@ msgstr ""
 
 #: ../qml/Settings.qml:93
 #, fuzzy
-#| msgid "between 50 and 3600000"
 msgid "between -100 and 100"
 msgstr "بين 50 و 3600000"
 
@@ -243,7 +242,6 @@ msgstr "تتبع المعلومات"
 
 #: ../qml/Main.qml:411
 #, fuzzy
-#| msgid "close"
 msgid "Close"
 msgstr "إغلاق"
 

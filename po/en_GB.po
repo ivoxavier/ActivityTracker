@@ -196,7 +196,6 @@ msgstr ""
 
 #: ../qml/Settings.qml:93
 #, fuzzy
-#| msgid "between 50 and 3600000"
 msgid "between -100 and 100"
 msgstr "between 50 and 3600000"
 

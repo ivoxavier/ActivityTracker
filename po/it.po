@@ -85,7 +85,6 @@ msgstr ""
 
 #: ../qml/ImportPage.qml:34
 #, fuzzy
-#| msgid "Choose sport:"
 msgid "Choose"
 msgstr "Scegli sport:"
 
@@ -198,7 +197,6 @@ msgstr ""
 
 #: ../qml/Settings.qml:93
 #, fuzzy
-#| msgid "between 50 and 3600000"
 msgid "between -100 and 100"
 msgstr "tra 50 e 3600000"
 
@@ -228,7 +226,6 @@ msgstr ""
 
 #: ../qml/Main.qml:291
 #, fuzzy
-#| msgid "Select the type and the name of your activity"
 msgid "Edit the type and the name of your activity"
 msgstr "Scegli il tipo e il nome della tua attività"
 

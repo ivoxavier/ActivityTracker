@@ -37,7 +37,6 @@ msgstr "Nouvelle activité"
 
 #: ../qml/Tracker.qml:67
 #, fuzzy
-#| msgid "Do you want to cancel the activity ?"
 msgid "Do you want to cancel the activity?"
 msgstr "Voulez-vous annuler l'activité ?"
 
@@ -47,7 +46,6 @@ msgstr ""
 
 #: ../qml/Tracker.qml:89
 #, fuzzy
-#| msgid "No, Continue"
 msgid "No, continue"
 msgstr "Non, continuer"
 
@@ -57,7 +55,6 @@ msgstr "Aucune donnée"
 
 #: ../qml/Tracker.qml:197
 #, fuzzy
-#| msgid "Do you want to stop recording your activity?"
 msgid "Do you want to stop the recording?"
 msgstr "Voulez-vous arrêter l'enregistrement de votre activité ?"
 
@@ -151,8 +148,6 @@ msgstr "Version"
 
 #: ../qml/About.qml:81
 #, fuzzy
-#| msgid ""
-#| "Released under the terms of the GNU GPL v3. <br> Source code available on "
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
 msgstr ""
 "Distribué sous les termes de la GNU GPL v3. <br> Code source disponible sur "
@@ -203,7 +198,6 @@ msgstr ""
 
 #: ../qml/Settings.qml:93
 #, fuzzy
-#| msgid "between 50 and 3600000"
 msgid "between -100 and 100"
 msgstr "entre 50 et 3600000"
 
@@ -233,7 +227,6 @@ msgstr ""
 
 #: ../qml/Main.qml:291
 #, fuzzy
-#| msgid "Select the type and the name of your activity"
 msgid "Edit the type and the name of your activity"
 msgstr "Sélectionner le type d'activité"
 
