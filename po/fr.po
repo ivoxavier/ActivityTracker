@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.actidev\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 10:29+0000\n"
-"PO-Revision-Date: 2019-08-28 04:24+0000\n"
-"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
+"PO-Revision-Date: 2019-10-20 10:48+0000\n"
+"Last-Translator: ozyc <ozyc@net-c.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/fr/>\n"
 "Language: fr\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr ""
+msgstr "Choisir un sport :"
 
 #: ../qml/SportSelectPopUp.qml:21
 msgid "After"
-msgstr ""
+msgstr "Après"
 
 #: ../qml/Tracker.qml:29
 msgid "Activity in Progress"
@@ -36,16 +36,14 @@ msgid "New Activity"
 msgstr "Nouvelle activité"
 
 #: ../qml/Tracker.qml:67
-#, fuzzy
 msgid "Do you want to cancel the activity?"
 msgstr "Voulez-vous annuler l'activité ?"
 
 #: ../qml/Tracker.qml:70
 msgid "Yes, cancel"
-msgstr ""
+msgstr "Oui, annuler"
 
 #: ../qml/Tracker.qml:89
-#, fuzzy
 msgid "No, continue"
 msgstr "Non, continuer"
 
@@ -54,7 +52,6 @@ msgid "No data"
 msgstr "Aucune donnée"
 
 #: ../qml/Tracker.qml:197
-#, fuzzy
 msgid "Do you want to stop the recording?"
 msgstr "Voulez-vous arrêter l'enregistrement de votre activité ?"
 
@@ -84,35 +81,35 @@ msgstr "Carte d'activité"
 
 #: ../qml/Map.qml:20
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: ../qml/ImportPage.qml:34
 msgid "Choose"
-msgstr ""
+msgstr "Choisir"
 
 #: ../qml/components/Sports.qml:7
 msgid "Run"
-msgstr ""
+msgstr "Courir"
 
 #: ../qml/components/Sports.qml:8
 msgid "BikeRide"
-msgstr ""
+msgstr "Promenade à vélo"
 
 #: ../qml/components/Sports.qml:9
 msgid "Walk"
-msgstr ""
+msgstr "Marcher"
 
 #: ../qml/components/Sports.qml:10
 msgid "Drive"
-msgstr ""
+msgstr "Conduire"
 
 #: ../qml/components/Sports.qml:11
 msgid "Hike"
-msgstr ""
+msgstr "Randonner"
 
 #: ../qml/components/Sports.qml:12
 msgid "Unicycle"
-msgstr ""
+msgstr "Monocycle"
 
 #: ../qml/ActivityDialog.qml:16
 msgid "Name"
@@ -120,7 +117,7 @@ msgstr "Nom"
 
 #: ../qml/ActivityDialog.qml:19
 msgid "Select a sport below"
-msgstr ""
+msgstr "Choisissez un sport en dessous"
 
 #: ../qml/ActivityDialog.qml:29
 msgid "Activity Type"
@@ -128,7 +125,7 @@ msgstr "Type d'activité"
 
 #: ../qml/ActivityDialog.qml:39
 msgid "Save"
-msgstr ""
+msgstr "Sauvegarder"
 
 #: ../qml/ActivityDialog.qml:53
 msgid "Cancel"
@@ -147,14 +144,13 @@ msgid "Version"
 msgstr "Version"
 
 #: ../qml/About.qml:81
-#, fuzzy
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
 msgstr ""
-"Distribué sous les termes de la GNU GPL v3. <br> Code source disponible sur "
+"Distribué sous les termes de la GNU GPL v3.<br>Code source disponible sur"
 
 #: ../qml/About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
-msgstr ""
+msgstr "Une partie des icônes est faite par %1 de %2 , sous licence %3"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
 #: ../qml/About.qml:103
@@ -162,14 +158,16 @@ msgid ""
 "Thanks to %1 for the icons based on:<br>%3 by %8 from %2,<br>%4 by %9 from "
 "%2,<br>%5 by %10 from %2,<br>%6 by %11 from %2,<br>%7 by %12 from %2"
 msgstr ""
+"Grâce à %1 pour les icônes basés sur : <br>%3 par %8 de %2, <br>%4 par %9 de "
+"%2,<br>%5 par %10 de %2, <br>%6 par %11 de %2,<br>%7 par %12 de %2"
 
 #: ../qml/About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr ""
+msgstr "Traduisez cette application sur Weblate !"
 
 #: ../qml/About.qml:133
 msgid "Support Weblate"
-msgstr ""
+msgstr "Supportez Weblate"
 
 #: ../qml/Settings.qml:14 ../qml/Main.qml:236
 msgid "Settings"
@@ -194,16 +192,15 @@ msgstr "ms"
 
 #: ../qml/Settings.qml:92
 msgid "Altitude offset:"
-msgstr ""
+msgstr "Compensation d'altitude :"
 
 #: ../qml/Settings.qml:93
-#, fuzzy
 msgid "between -100 and 100"
-msgstr "entre 50 et 3600000"
+msgstr "entre -100 et 100"
 
 #: ../qml/Settings.qml:115
 msgid "meter(s)"
-msgstr ""
+msgstr "mètre(s)"
 
 #: ../qml/Main.qml:151 ../qml/Main.qml:154
 msgid "Distance: "
@@ -219,16 +216,15 @@ msgstr "Activités récentes"
 
 #: ../qml/Main.qml:241
 msgid "Filter"
-msgstr ""
+msgstr "Filtrer"
 
 #: ../qml/Main.qml:246
 msgid "Import"
-msgstr ""
+msgstr "Importer"
 
 #: ../qml/Main.qml:291
-#, fuzzy
 msgid "Edit the type and the name of your activity"
-msgstr "Sélectionner le type d'activité"
+msgstr "Modifiez le type et le nom de votre activité"
 
 #: ../qml/Main.qml:312
 msgid "No saved activities"
@@ -240,11 +236,11 @@ msgstr "Glisser vers le haut pour démarrer"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
-msgstr ""
+msgstr "Suivre les informations"
 
 #: ../qml/Main.qml:411
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: ../qml/Main.qml:422
 msgid "Log new Activity"
