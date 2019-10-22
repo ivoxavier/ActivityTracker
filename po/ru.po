@@ -8,17 +8,17 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 10:29+0000\n"
-"PO-Revision-Date: 2019-06-20 07:01+0000\n"
-"Last-Translator: The King of Music <ms066232@gmail.com>\n"
+"PO-Revision-Date: 2019-10-23 10:51+0000\n"
+"Last-Translator: Олег Поповский <filin2009@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.7\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
@@ -82,7 +82,7 @@ msgstr "Карта деятельности"
 
 #: ../qml/Map.qml:20
 msgid "Info"
-msgstr ""
+msgstr "Инфо"
 
 #: ../qml/ImportPage.qml:34
 msgid "Choose"
@@ -110,7 +110,7 @@ msgstr "Марш"
 
 #: ../qml/components/Sports.qml:12
 msgid "Unicycle"
-msgstr ""
+msgstr "Моноцикл"
 
 #: ../qml/ActivityDialog.qml:16
 msgid "Name"
@@ -193,16 +193,16 @@ msgstr "мс"
 
 #: ../qml/Settings.qml:92
 msgid "Altitude offset:"
-msgstr ""
+msgstr "Смещение высоты:"
 
 #: ../qml/Settings.qml:93
 #, fuzzy
 msgid "between -100 and 100"
-msgstr "между 50 и 3600000"
+msgstr "между -100 и 100"
 
 #: ../qml/Settings.qml:115
 msgid "meter(s)"
-msgstr ""
+msgstr "метр(ов)"
 
 #: ../qml/Main.qml:151 ../qml/Main.qml:154
 msgid "Distance: "
@@ -218,7 +218,7 @@ msgstr "Недавняя активность"
 
 #: ../qml/Main.qml:241
 msgid "Filter"
-msgstr ""
+msgstr "Фильтр"
 
 #: ../qml/Main.qml:246
 msgid "Import"
@@ -243,7 +243,7 @@ msgstr "Информация о дорожке"
 #: ../qml/Main.qml:411
 #, fuzzy
 msgid "Close"
-msgstr "закрыть"
+msgstr "Закрыть"
 
 #: ../qml/Main.qml:422
 msgid "Log new Activity"
