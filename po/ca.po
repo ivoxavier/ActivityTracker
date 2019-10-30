@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 10:29+0000\n"
-"PO-Revision-Date: 2019-01-15 17:56+0000\n"
-"Last-Translator: Michele <miguel2000@livecom.it>\n"
+"PO-Revision-Date: 2019-10-31 12:03+0000\n"
+"Last-Translator: Alexandra Bonet Canela <abonetcan@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ca/>\n"
 "Language: ca\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.10-dev\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr ""
+msgstr "Trieu l'esport:"
 
 #: ../qml/SportSelectPopUp.qml:21
 msgid "After"
-msgstr ""
+msgstr "Després"
 
 #: ../qml/Tracker.qml:29
 msgid "Activity in Progress"
@@ -36,18 +36,16 @@ msgid "New Activity"
 msgstr "Nova activitata"
 
 #: ../qml/Tracker.qml:67
-#, fuzzy
 msgid "Do you want to cancel the activity?"
-msgstr "Segur que voleu cancel·lar l'activitat?"
+msgstr "Voleu cancel·lar l'activitat?"
 
 #: ../qml/Tracker.qml:70
 msgid "Yes, cancel"
-msgstr ""
+msgstr "Sí, cancel·la"
 
 #: ../qml/Tracker.qml:89
-#, fuzzy
 msgid "No, continue"
-msgstr "No, continua"
+msgstr "No, continuar"
 
 #: ../qml/Tracker.qml:128 ../qml/Tracker.qml:133
 msgid "No data"
