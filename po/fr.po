@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.actidev\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 10:29+0000\n"
-"PO-Revision-Date: 2019-10-20 10:48+0000\n"
-"Last-Translator: ozyc <ozyc@net-c.com>\n"
+"PO-Revision-Date: 2019-10-31 12:03+0000\n"
+"Last-Translator: Ernes_t <kevin.beranger@posteo.net>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/fr/>\n"
 "Language: fr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.9.1-dev\n"
+"X-Generator: Weblate 3.10-dev\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
@@ -236,7 +236,7 @@ msgstr "Glisser vers le haut pour démarrer"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
-msgstr "Suivre les informations"
+msgstr "Information du tracé"
 
 #: ../qml/Main.qml:411
 msgid "Close"
