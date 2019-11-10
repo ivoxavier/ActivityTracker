@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 10:29+0000\n"
-"PO-Revision-Date: 2019-08-23 23:24+0000\n"
-"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
+"PO-Revision-Date: 2019-11-11 08:04+0000\n"
+"Last-Translator: James Imel <jamescimel@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/fi/>\n"
 "Language: fi\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 3.10-dev\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
@@ -82,7 +82,7 @@ msgstr "Toimintakartta"
 
 #: ../qml/Map.qml:20
 msgid "Info"
-msgstr ""
+msgstr "English"
 
 #: ../qml/ImportPage.qml:34
 msgid "Choose"
