@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 10:29+0000\n"
-"PO-Revision-Date: 2019-11-05 15:04+0000\n"
-"Last-Translator: Zaicheng Qi <vmlinz@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 03:06+0000\n"
+"Last-Translator: soyol aron <aronsoyol@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"activity-tracker/translations/zh_HANS-CN/>\n"
+"activity-tracker/translations/zh_Hans/>\n"
 "Language: zh_HANS-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -200,7 +200,7 @@ msgstr "在50到3600000之间"
 
 #: ../qml/Settings.qml:115
 msgid "meter(s)"
-msgstr ""
+msgstr "仪表"
 
 #: ../qml/Main.qml:151 ../qml/Main.qml:154
 msgid "Distance: "
