@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 10:29+0000\n"
-"PO-Revision-Date: 2019-12-03 09:05+0000\n"
+"PO-Revision-Date: 2019-12-23 11:21+0000\n"
 "Last-Translator: Tuomas Lähteenmäki <lahtis@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/fi/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 3.10\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
@@ -137,7 +137,7 @@ msgstr "Sovelluksesta"
 
 #: ../qml/About.qml:37
 msgid "Activity Tracker"
-msgstr "Activity Tracker"
+msgstr "Aktiivisuuden seuranta"
 
 #: ../qml/About.qml:43
 msgid "Version"
