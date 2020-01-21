@@ -8,61 +8,64 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 10:29+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-01-22 15:21+0000\n"
+"Last-Translator: Srivatsan S <vatsan34@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/activity-tracker/"
+"translations/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11-dev\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr ""
+msgstr "விளையாட்டினை தேர்ந்தெடுக்கவும்:"
 
 #: ../qml/SportSelectPopUp.qml:21
 msgid "After"
-msgstr ""
+msgstr "அடுத்து"
 
 #: ../qml/Tracker.qml:29
 msgid "Activity in Progress"
-msgstr ""
+msgstr "தொடர்ச்சியில் உள்ள செயல்பாடு"
 
 #: ../qml/Tracker.qml:29
 msgid "New Activity"
-msgstr ""
+msgstr "புதிய செயல்பாடு"
 
 #: ../qml/Tracker.qml:67
 msgid "Do you want to cancel the activity?"
-msgstr ""
+msgstr "செயல்பாட்டினை ரத்து செய்யவேண்டுமா?"
 
 #: ../qml/Tracker.qml:70
 msgid "Yes, cancel"
-msgstr ""
+msgstr "ஆம், ரத்து செய்க"
 
 #: ../qml/Tracker.qml:89
 msgid "No, continue"
-msgstr ""
+msgstr "இல்லை, தொடர்க"
 
 #: ../qml/Tracker.qml:128 ../qml/Tracker.qml:133
 msgid "No data"
-msgstr ""
+msgstr "தகவல் இல்லை"
 
 #: ../qml/Tracker.qml:197
 msgid "Do you want to stop the recording?"
-msgstr ""
+msgstr "ஒலிப்பதிவை நிறுத்த வேண்டுமா?"
 
 #: ../qml/Tracker.qml:199
 msgid "Yes, Stop!"
-msgstr ""
+msgstr "ஆம், நிறுத்துக!"
 
 #: ../qml/Tracker.qml:220
 msgid "No, Continue"
-msgstr ""
+msgstr "இல்லை, தொடர்க"
 
 #: ../qml/Tracker.qml:232 ../qml/Main.qml:276
 msgid "Select the type and the name of your activity"
-msgstr ""
+msgstr "உங்களது செயல்பாட்டின் வகை மற்றும் பெயரினை தேர்ந்தெடுக்கவும்"
 
 #: ../qml/Tracker.qml:300
 msgid "Start"
