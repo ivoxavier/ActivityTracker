@@ -8,85 +8,88 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-16 17:32+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-03-11 08:33+0000\n"
+"Last-Translator: Rajkiran Shetty <rajkiran@codecraft.co.in>\n"
+"Language-Team: Hindi <https://hosted.weblate.org/projects/activity-tracker/"
+"translations/hi/>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr ""
+msgstr "खेल चुनें:"
 
 #: ../qml/SportSelectPopUp.qml:21
 msgid "After"
-msgstr ""
+msgstr "बाद"
 
 #: ../qml/Tracker.qml:29
 msgid "Activity in Progress"
-msgstr ""
+msgstr "प्रगति में गतिविधि"
 
 #: ../qml/Tracker.qml:29
 msgid "New Activity"
-msgstr ""
+msgstr "नई गतिविधि"
 
 #: ../qml/Tracker.qml:67
 msgid "Do you want to cancel the activity?"
-msgstr ""
+msgstr "क्या आप गतिविधि रद्द करना चाहते हैं?"
 
 #: ../qml/Tracker.qml:70
 msgid "Yes, cancel"
-msgstr ""
+msgstr "हाँ, रद्द करें"
 
 #: ../qml/Tracker.qml:89
 msgid "No, continue"
-msgstr ""
+msgstr "नहीं, जारी रखें"
 
 #: ../qml/Tracker.qml:128 ../qml/Tracker.qml:133
 msgid "No data"
-msgstr ""
+msgstr "कोई आकड़ा उपलब्ध नहीं है"
 
 #: ../qml/Tracker.qml:197
 msgid "Do you want to stop the recording?"
-msgstr ""
+msgstr "क्या आप रिकॉर्डिंग बंद करना चाहते हैं?"
 
 #: ../qml/Tracker.qml:199
 msgid "Yes, Stop!"
-msgstr ""
+msgstr "हाँ, रुक जाओ!"
 
 #: ../qml/Tracker.qml:220
 msgid "No, Continue"
-msgstr ""
+msgstr "नहीं, जारी रखें"
 
 #: ../qml/Tracker.qml:232 ../qml/Main.qml:276
 msgid "Select the type and the name of your activity"
-msgstr ""
+msgstr "अपनी गतिविधि का प्रकार और नाम चुनें"
 
 #: ../qml/Tracker.qml:300
 msgid "Start"
-msgstr ""
+msgstr "प्रारंभ"
 
 #: ../qml/Tracker.qml:321
 msgid "Stop"
-msgstr ""
+msgstr "रुको"
 
 #: ../qml/Map.qml:17
 msgid "Activity Map"
-msgstr ""
+msgstr "गतिविधि मानचित्र"
 
 #: ../qml/Map.qml:20
 msgid "Info"
-msgstr ""
+msgstr "जानकारी"
 
 #: ../qml/ImportPage.qml:34
 msgid "Choose"
-msgstr ""
+msgstr "चुनें"
 
 #: ../qml/components/Sports.qml:7
 msgid "Run"
-msgstr ""
+msgstr "चलाना"
 
 #: ../qml/components/Sports.qml:8
 msgid "BikeRide"
