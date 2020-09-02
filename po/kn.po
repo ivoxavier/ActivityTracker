@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 10:29+0000\n"
-"PO-Revision-Date: 2020-09-01 17:36+0000\n"
+"PO-Revision-Date: 2020-09-03 06:36+0000\n"
 "Last-Translator: msri <msriharitasa@gmail.com>\n"
 "Language-Team: Kannada <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/kn/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.2.1-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
@@ -165,7 +165,7 @@ msgstr ""
 
 #: ../qml/About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr "ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ವೆಬ್ಲೆಟ್ನಲ್ಲಿ ಭಾಷಾಂತರಿಸಿ!"
+msgstr "ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ವೆಬ್ಲೆಟ್ನಲ್ಲಿ ನುಡಿಮಾರಿಸಿ!"
 
 #: ../qml/About.qml:133
 msgid "Support Weblate"
@@ -173,11 +173,11 @@ msgstr "ವೆಬ್ಲೆಟ್ಅನ್ನು ಬೆಂಬಲಿಸಿ"
 
 #: ../qml/Settings.qml:14 ../qml/Main.qml:236
 msgid "Settings"
-msgstr "ಸಂಯೋಜನೆಗಳು"
+msgstr "ಅಳವಡಿಕೆಗಳು"
 
 #: ../qml/Settings.qml:36
 msgid "Units"
-msgstr "ಏಕಾಂಶ"
+msgstr "ಒಳಕೂಟ"
 
 #: ../qml/Settings.qml:53
 msgid "Log a point every:"
