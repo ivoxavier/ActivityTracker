@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-16 17:32+0000\n"
-"PO-Revision-Date: 2020-06-20 20:41+0000\n"
+"PO-Revision-Date: 2020-10-13 12:26+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/"
 "activity-tracker/translations/hr/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
@@ -30,7 +30,7 @@ msgstr "Nakon"
 
 #: ../qml/Tracker.qml:29
 msgid "Activity in Progress"
-msgstr "Aktivnost u toku"
+msgstr "Aktivnost u tijeku"
 
 #: ../qml/Tracker.qml:29
 msgid "New Activity"
@@ -70,7 +70,7 @@ msgstr "Odaberi vrstu i ime tvoje aktivnosti"
 
 #: ../qml/Tracker.qml:300
 msgid "Start"
-msgstr "Počni"
+msgstr "Pokreni"
 
 #: ../qml/Tracker.qml:321
 msgid "Stop"
@@ -78,11 +78,11 @@ msgstr "Zaustavi"
 
 #: ../qml/Map.qml:17
 msgid "Activity Map"
-msgstr "Mapa aktivnosti"
+msgstr "Karta aktivnosti"
 
 #: ../qml/Map.qml:20
 msgid "Info"
-msgstr "Informacije"
+msgstr "Podaci"
 
 #: ../qml/ImportPage.qml:34
 msgid "Choose"
@@ -94,11 +94,11 @@ msgstr "Trčanje"
 
 #: ../qml/components/Sports.qml:8
 msgid "BikeRide"
-msgstr "Biciklizam"
+msgstr "Vožnja biciklom"
 
 #: ../qml/components/Sports.qml:9
 msgid "Walk"
-msgstr "Hod"
+msgstr "Hodanje"
 
 #: ../qml/components/Sports.qml:10
 msgid "Drive"
@@ -110,7 +110,7 @@ msgstr "Pješaćenje"
 
 #: ../qml/components/Sports.qml:12
 msgid "Unicycle"
-msgstr "Monocikl"
+msgstr "Vožnja monociklom"
 
 #: ../qml/ActivityDialog.qml:16
 msgid "Name"
@@ -163,7 +163,7 @@ msgstr ""
 
 #: ../qml/About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr "Prevedi ovu aplikaciju na Weblate!"
+msgstr "Prevedi ovaj program na Weblate stranicama!"
 
 #: ../qml/About.qml:133
 msgid "Support Weblate"
@@ -192,7 +192,7 @@ msgstr "ms"
 
 #: ../qml/Settings.qml:92
 msgid "Altitude offset:"
-msgstr "Pomak nadmorske visine:"
+msgstr "Visinska razlika:"
 
 #: ../qml/Settings.qml:93
 msgid "between -100 and 100"
@@ -200,7 +200,7 @@ msgstr "između −100 i 100"
 
 #: ../qml/Settings.qml:115
 msgid "meter(s)"
-msgstr "metra"
+msgstr "m"
 
 #: ../qml/Main.qml:151 ../qml/Main.qml:154
 msgid "Distance: "
@@ -232,11 +232,11 @@ msgstr "Nema spremljenih aktivnosti"
 
 #: ../qml/Main.qml:315
 msgid "Swipe up to log a new activity"
-msgstr "Povuci prema gore za zabilježavanje nove aktivnost"
+msgstr "Povuci prstom prema gore za zapisivanje nove aktivnost"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
-msgstr "Podaci praćenja"
+msgstr "Podaci puta"
 
 #: ../qml/Main.qml:411
 msgid "Close"
