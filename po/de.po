@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2020-09-08 14:36+0000\n"
+"PO-Revision-Date: 2020-11-22 12:29+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/de/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -146,14 +146,12 @@ msgid "Units"
 msgstr "Einheiten"
 
 #: ../qml/Settings.qml:37
-#, fuzzy
-#| msgid "meter(s)"
 msgid "Kilometers"
-msgstr "Meter"
+msgstr "Kilometer"
 
 #: ../qml/Settings.qml:37
 msgid "Miles"
-msgstr ""
+msgstr "Meilen"
 
 #: ../qml/Settings.qml:54
 msgid "Log a point every:"
