@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
 "PO-Revision-Date: 2020-11-25 18:29+0000\n"
-"Last-Translator: Sergey Nakhov <true.stalin.exe@gmail.com>\n"
+"Last-Translator: Гринько Владимир <volb132@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
 "Language: ru\n"
@@ -26,7 +26,7 @@ msgstr "Об Activity Tracker"
 
 #: ../qml/About.qml:37
 msgid "Activity Tracker"
-msgstr "Трекер деятельности"
+msgstr "Трекер активности"
 
 #: ../qml/About.qml:43
 msgid "Version"
@@ -147,14 +147,12 @@ msgid "Units"
 msgstr "Единицы"
 
 #: ../qml/Settings.qml:37
-#, fuzzy
-#| msgid "meter(s)"
 msgid "Kilometers"
-msgstr "метр(ов)"
+msgstr "Километров"
 
 #: ../qml/Settings.qml:37
 msgid "Miles"
-msgstr ""
+msgstr "Миль"
 
 #: ../qml/Settings.qml:54
 msgid "Log a point every:"
