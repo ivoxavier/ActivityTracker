@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2019-10-28 14:26+0000\n"
-"Last-Translator: Niara <kitekatkek@gmail.com>\n"
+"PO-Revision-Date: 2020-11-25 18:29+0000\n"
+"Last-Translator: Sergey Nakhov <true.stalin.exe@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
 "Language: ru\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -64,7 +64,7 @@ msgstr "Имя"
 
 #: ../qml/ActivityDialog.qml:19
 msgid "Select a sport below"
-msgstr "Выбрать спорт ниже"
+msgstr "Выберите тип ниже"
 
 #: ../qml/ActivityDialog.qml:29
 msgid "Activity Type"
@@ -96,7 +96,7 @@ msgstr "Недавняя активность"
 
 #: ../qml/Main.qml:236 ../qml/Settings.qml:14
 msgid "Settings"
-msgstr "Параметры"
+msgstr "Настройки"
 
 #: ../qml/Main.qml:241
 msgid "Filter"
@@ -104,11 +104,11 @@ msgstr "Фильтр"
 
 #: ../qml/Main.qml:246
 msgid "Import"
-msgstr "Импорт"
+msgstr "Импортировать"
 
 #: ../qml/Main.qml:276 ../qml/Tracker.qml:232
 msgid "Select the type and the name of your activity"
-msgstr "Выбрать тип и название вашей деятельности"
+msgstr "Выберите тип и название активности"
 
 #: ../qml/Main.qml:291
 msgid "Edit the type and the name of your activity"
