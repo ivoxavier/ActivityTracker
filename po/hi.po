@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2020-05-06 16:12+0000\n"
-"Last-Translator: Shreyas Murali Thottuvai <shreyas.murali@hotmail.com>\n"
+"PO-Revision-Date: 2020-12-22 16:29+0000\n"
+"Last-Translator: Indrani Roy <indrani@scriptek.co.in>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/hi/>\n"
 "Language: hi\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -25,11 +25,11 @@ msgstr ""
 
 #: ../qml/About.qml:37
 msgid "Activity Tracker"
-msgstr ""
+msgstr "गतिविधि ट्रैकर"
 
 #: ../qml/About.qml:43
 msgid "Version"
-msgstr ""
+msgstr "वर्शन"
 
 #: ../qml/About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../qml/About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr ""
+msgstr "इस ऐप को वेबलेट पर अनुवाद करें!"
 
 #: ../qml/About.qml:133
 msgid "Support Weblate"
@@ -64,7 +64,7 @@ msgstr ""
 
 #: ../qml/ActivityDialog.qml:29
 msgid "Activity Type"
-msgstr ""
+msgstr "गतिविधि का प्रकार"
 
 #: ../qml/ActivityDialog.qml:39
 msgid "Save"
@@ -72,7 +72,7 @@ msgstr ""
 
 #: ../qml/ActivityDialog.qml:53
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करें"
 
 #: ../qml/ImportPage.qml:34
 msgid "Choose"
@@ -92,7 +92,7 @@ msgstr ""
 
 #: ../qml/Main.qml:236 ../qml/Settings.qml:14
 msgid "Settings"
-msgstr ""
+msgstr "सेटिंग"
 
 #: ../qml/Main.qml:241
 msgid "Filter"
@@ -120,11 +120,11 @@ msgstr ""
 
 #: ../qml/Main.qml:397
 msgid "Track information"
-msgstr ""
+msgstr "जानकारी ट्रैक करें"
 
 #: ../qml/Main.qml:411
 msgid "Close"
-msgstr ""
+msgstr "बंद करें"
 
 #: ../qml/Main.qml:422
 msgid "Log new Activity"
@@ -156,7 +156,7 @@ msgstr ""
 
 #: ../qml/Settings.qml:56
 msgid "between 50 and 3600000"
-msgstr ""
+msgstr "50 और 3600000 के बीच में"
 
 #. TRANSLATORS: millisecond abbreviation
 #: ../qml/Settings.qml:83
@@ -169,7 +169,7 @@ msgstr ""
 
 #: ../qml/Settings.qml:94
 msgid "between -100 and 100"
-msgstr ""
+msgstr "-100 और 100 के बीच में"
 
 #: ../qml/Settings.qml:116
 msgid "meter(s)"
