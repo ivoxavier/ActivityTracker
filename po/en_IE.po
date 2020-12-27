@@ -8,25 +8,28 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-12-28 19:29+0000\n"
+"Last-Translator: Mark Robert Penny <mark.penny94@yahoo.co.uk>\n"
+"Language-Team: English (Ireland) <https://hosted.weblate.org/projects/"
+"activity-tracker/translations/en_IE/>\n"
 "Language: en_IE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.1-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: ../qml/About.qml:37
 msgid "Activity Tracker"
-msgstr ""
+msgstr "Activity tracker"
 
 #: ../qml/About.qml:43
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: ../qml/About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
