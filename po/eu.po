@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2020-06-29 10:41+0000\n"
-"Last-Translator: aitzol berasategi <aitzol@disroot.org>\n"
+"PO-Revision-Date: 2020-12-30 16:29+0000\n"
+"Last-Translator: Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/eu/>\n"
 "Language: eu\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.4.1-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -34,8 +34,8 @@ msgstr "Bertsioa"
 #: ../qml/About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
 msgstr ""
-"GNU GPL v3. baldintzapean argitaratua.\n"
-"<br>Iturburu kodea:"
+"GNU GPL v3 baldintzapean argitaratua.<br>Iturburu kodea eskuragarri dago "
+"hemen"
 
 #: ../qml/About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
@@ -149,14 +149,12 @@ msgid "Units"
 msgstr "Unitateak"
 
 #: ../qml/Settings.qml:37
-#, fuzzy
-#| msgid "meter(s)"
 msgid "Kilometers"
-msgstr "metro"
+msgstr "Kilometroak"
 
 #: ../qml/Settings.qml:37
 msgid "Miles"
-msgstr ""
+msgstr "Miliak"
 
 #: ../qml/Settings.qml:54
 msgid "Log a point every:"
