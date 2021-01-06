@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2020-12-28 19:29+0000\n"
-"Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
+"PO-Revision-Date: 2021-01-08 10:32+0000\n"
+"Last-Translator: Burek <jokxa@hotmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/sr/>\n"
 "Language: sr\n"
@@ -155,7 +155,7 @@ msgstr "Миља"
 
 #: ../qml/Settings.qml:54
 msgid "Log a point every:"
-msgstr "Zapiši  tačku svakih:"
+msgstr "Zapiši tačku svakih:"
 
 #: ../qml/Settings.qml:56
 msgid "between 50 and 3600000"
