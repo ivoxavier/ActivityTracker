@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2019-12-13 17:57+0000\n"
-"Last-Translator: Kyle <hughka@163.com>\n"
+"PO-Revision-Date: 2021-01-08 10:32+0000\n"
+"Last-Translator: Liao junchao <liaojunchao@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "activity-tracker/translations/zh_Hans/>\n"
 "Language: zh_HANS-CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 4.4.1-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -145,14 +145,12 @@ msgid "Units"
 msgstr "单位"
 
 #: ../qml/Settings.qml:37
-#, fuzzy
-#| msgid "meter(s)"
 msgid "Kilometers"
-msgstr "仪表"
+msgstr "公里"
 
 #: ../qml/Settings.qml:37
 msgid "Miles"
-msgstr ""
+msgstr "英里"
 
 #: ../qml/Settings.qml:54
 msgid "Log a point every:"
