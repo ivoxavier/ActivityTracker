@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-02-01 05:42+0000\n"
+"PO-Revision-Date: 2021-04-24 06:32+0000\n"
 "Last-Translator: Oymate <dhruboadittya96@gmail.com>\n"
 "Language-Team: Bengali <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/bn/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -152,7 +152,7 @@ msgstr "মাইল"
 
 #: ../qml/Settings.qml:54
 msgid "Log a point every:"
-msgstr ""
+msgstr "তথ্য রাখো প্রতি:"
 
 #: ../qml/Settings.qml:56
 msgid "between 50 and 3600000"
@@ -245,7 +245,7 @@ msgstr "গাড়ি চালানো"
 
 #: ../qml/components/Sports.qml:11
 msgid "Hike"
-msgstr ""
+msgstr "বকবক"
 
 #: ../qml/components/Sports.qml:12
 msgid "Unicycle"
