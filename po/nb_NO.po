@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2020-11-27 14:29+0000\n"
-"Last-Translator: Stein Ljøen <steinlj@online.no>\n"
+"PO-Revision-Date: 2021-05-04 07:32+0000\n"
+"Last-Translator: Jenni Hollis <jennihollis@outlook.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "activity-tracker/translations/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -127,9 +127,8 @@ msgid "Track information"
 msgstr "Spor-informasjon"
 
 #: ../qml/Main.qml:411
-#, fuzzy
 msgid "Close"
-msgstr "lukk"
+msgstr "Lukk"
 
 #: ../qml/Main.qml:422
 #, fuzzy
@@ -175,9 +174,8 @@ msgid "Altitude offset:"
 msgstr "Høydekompensasjon:"
 
 #: ../qml/Settings.qml:94
-#, fuzzy
 msgid "between -100 and 100"
-msgstr "mellom 50 og 3600000"
+msgstr "mellom -100 og 100"
 
 #: ../qml/Settings.qml:116
 msgid "meter(s)"
