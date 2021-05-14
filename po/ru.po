@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
 "PO-Revision-Date: 2021-05-15 09:33+0000\n"
-"Last-Translator: Sergey Nakhov <true.stalin.exe@gmail.com>\n"
+"Last-Translator: Axus Wizix <axus.wizix@mail.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
 "Language: ru\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
-msgstr "Об Activity Tracker"
+msgstr "О приложении"
 
 #: ../qml/About.qml:37
 msgid "Activity Tracker"
@@ -113,7 +113,7 @@ msgstr "Выберите тип и название активности"
 
 #: ../qml/Main.qml:291
 msgid "Edit the type and the name of your activity"
-msgstr "Править тип и название вашей деятельности"
+msgstr "Изменить тип и название вашей активности"
 
 #: ../qml/Main.qml:312
 msgid "No saved activities"
@@ -121,7 +121,7 @@ msgstr "Нет сохранённой активности"
 
 #: ../qml/Main.qml:315
 msgid "Swipe up to log a new activity"
-msgstr "Проведите вверх для журналирования новой деятельности"
+msgstr "Проведите пальцем вверх, чтобы записать новую активность"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
@@ -141,7 +141,7 @@ msgstr "Карта деятельности"
 
 #: ../qml/Map.qml:20
 msgid "Info"
-msgstr "Инфо"
+msgstr "Информация"
 
 #: ../qml/Settings.qml:36
 msgid "Units"
