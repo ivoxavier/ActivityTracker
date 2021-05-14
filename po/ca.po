@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2020-12-09 06:29+0000\n"
-"Last-Translator: Emma Farreras Compte <emmafarreras@gmail.com>\n"
+"PO-Revision-Date: 2021-05-15 09:33+0000\n"
+"Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ca/>\n"
 "Language: ca\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -72,7 +72,7 @@ msgstr "Tipus d'activitat"
 
 #: ../qml/ActivityDialog.qml:39
 msgid "Save"
-msgstr "Desar"
+msgstr "Desa"
 
 #: ../qml/ActivityDialog.qml:53
 msgid "Cancel"
@@ -120,7 +120,7 @@ msgstr "No hi ha activitats desades"
 
 #: ../qml/Main.qml:315
 msgid "Swipe up to log a new activity"
-msgstr "Rellisqueu cap amunt per registrar una nova activitat"
+msgstr "Llisqueu cap amunt per registrar una nova activitat"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
@@ -128,7 +128,7 @@ msgstr "Informació de rastreig"
 
 #: ../qml/Main.qml:411
 msgid "Close"
-msgstr "Tanqueu"
+msgstr "Tanca"
 
 #: ../qml/Main.qml:422
 msgid "Log new Activity"
@@ -189,11 +189,11 @@ msgstr "Després"
 
 #: ../qml/Tracker.qml:29
 msgid "Activity in Progress"
-msgstr "Actitivitat en progrés"
+msgstr "Activitat en progrés"
 
 #: ../qml/Tracker.qml:29
 msgid "New Activity"
-msgstr "Nova activitata"
+msgstr "Nova activitat"
 
 #: ../qml/Tracker.qml:67
 msgid "Do you want to cancel the activity?"
@@ -205,7 +205,7 @@ msgstr "Sí, cancel·la"
 
 #: ../qml/Tracker.qml:89
 msgid "No, continue"
-msgstr "No, continuar"
+msgstr "No, continua"
 
 #: ../qml/Tracker.qml:128 ../qml/Tracker.qml:133
 msgid "No data"
@@ -241,19 +241,19 @@ msgstr "Anar en bici"
 
 #: ../qml/components/Sports.qml:9
 msgid "Walk"
-msgstr "Camminata"
+msgstr "Caminar"
 
 #: ../qml/components/Sports.qml:10
 msgid "Drive"
-msgstr "Viaggio"
+msgstr "Conduir"
 
 #: ../qml/components/Sports.qml:11
 msgid "Hike"
-msgstr "Escursione"
+msgstr "Excursió a peu"
 
 #: ../qml/components/Sports.qml:12
 msgid "Unicycle"
-msgstr "Monocicle"
+msgstr "Unicicle"
 
 #~ msgid "Source code available on "
 #~ msgstr "Codi font disponible a "
