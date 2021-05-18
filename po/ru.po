@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-05-15 09:33+0000\n"
-"Last-Translator: Axus Wizix <axus.wizix@mail.ru>\n"
+"PO-Revision-Date: 2021-05-18 04:05+0000\n"
+"Last-Translator: Sergey Nakhov <true.stalin.exe@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
 "Language: ru\n"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../qml/About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
-msgstr "Часть значков сделана %1, из %2, лицензирована %3"
+msgstr "Часть иконок была сделана %1 из %2 по лицензии %3"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
 #: ../qml/About.qml:103
@@ -48,8 +48,8 @@ msgid ""
 "Thanks to %1 for the icons based on:<br>%3 by %8 from %2,<br>%4 by %9 from "
 "%2,<br>%5 by %10 from %2,<br>%6 by %11 from %2,<br>%7 by %12 from %2"
 msgstr ""
-"Благодарим %1 за значки основанные на:<br>%3 от %8 на %2,<br>%4 от %9 на %2,"
-"<br>%5 от 10% на 2%,<br>%6 от 11% на %2,<br>%7 от 12% на %2"
+"Благодарим %1 за иконки, основанные на:<br>%3 от %8 из %2,<br>%4 от %9 из "
+"%2,<br>%5 от %10 из %2,<br>%6 от %11 из %2,<br>%7 от %12 из %2"
 
 #: ../qml/About.qml:124
 msgid "Translate this app on Weblate!"
@@ -57,11 +57,11 @@ msgstr "Примите участие в переводе приложения �
 
 #: ../qml/About.qml:133
 msgid "Support Weblate"
-msgstr "Поддержите Weblate"
+msgstr "Поддержать Weblate"
 
 #: ../qml/ActivityDialog.qml:16
 msgid "Name"
-msgstr "Имя"
+msgstr "Название"
 
 #: ../qml/ActivityDialog.qml:19
 msgid "Select a sport below"
@@ -121,7 +121,7 @@ msgstr "Нет сохранённой активности"
 
 #: ../qml/Main.qml:315
 msgid "Swipe up to log a new activity"
-msgstr "Проведите пальцем вверх, чтобы записать новую активность"
+msgstr "Свайпните вверх, чтобы записать новую активность"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
