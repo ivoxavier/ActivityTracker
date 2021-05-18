@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
 "PO-Revision-Date: 2021-05-19 03:13+0000\n"
-"Last-Translator: Axus Wizix <axus.wizix@mail.ru>\n"
+"Last-Translator: Sergey Nakhov <true.stalin.exe@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
 "Language: ru\n"
@@ -133,7 +133,7 @@ msgstr "Закрыть"
 
 #: ../qml/Main.qml:422
 msgid "Log new Activity"
-msgstr "Журналировать новую деятельность"
+msgstr "Записать новую активность"
 
 #: ../qml/Map.qml:17
 msgid "Activity Map"
