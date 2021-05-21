@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-05-19 03:13+0000\n"
+"PO-Revision-Date: 2021-05-21 03:41+0000\n"
 "Last-Translator: Sergey Nakhov <true.stalin.exe@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
@@ -93,7 +93,7 @@ msgstr "Время: "
 
 #: ../qml/Main.qml:232
 msgid "Recent Activities"
-msgstr "Недавняя активность"
+msgstr "Недавние активности"
 
 #: ../qml/Main.qml:236 ../qml/Settings.qml:14
 msgid "Settings"
