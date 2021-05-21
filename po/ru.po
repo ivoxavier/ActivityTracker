@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-05-21 03:44+0000\n"
+"PO-Revision-Date: 2021-05-22 04:33+0000\n"
 "Last-Translator: Axus Wizix <axus.wizix@mail.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
@@ -214,7 +214,7 @@ msgstr "Нет данных"
 
 #: ../qml/Tracker.qml:197
 msgid "Do you want to stop the recording?"
-msgstr "Вы хотите прекратить запись?"
+msgstr "Вы желаете остановить запись?"
 
 #: ../qml/Tracker.qml:199
 msgid "Yes, Stop!"
