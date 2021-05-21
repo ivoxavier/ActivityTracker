@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
 "PO-Revision-Date: 2021-05-21 03:43+0000\n"
-"Last-Translator: Sergey Nakhov <true.stalin.exe@gmail.com>\n"
+"Last-Translator: Axus Wizix <axus.wizix@mail.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
 "Language: ru\n"
@@ -113,7 +113,7 @@ msgstr "Выберите тип и название активности"
 
 #: ../qml/Main.qml:291
 msgid "Edit the type and the name of your activity"
-msgstr "Отредактировать тип и название вашей активности"
+msgstr "Изменить тип и название вашей активности"
 
 #: ../qml/Main.qml:312
 msgid "No saved activities"
