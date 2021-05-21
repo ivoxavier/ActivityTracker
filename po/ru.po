@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
 "PO-Revision-Date: 2021-05-21 03:42+0000\n"
-"Last-Translator: Sergey Nakhov <true.stalin.exe@gmail.com>\n"
+"Last-Translator: Axus Wizix <axus.wizix@mail.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
 "Language: ru\n"
@@ -93,7 +93,7 @@ msgstr "Время: "
 
 #: ../qml/Main.qml:232
 msgid "Recent Activities"
-msgstr "Недавние активности"
+msgstr "Недавняя активность"
 
 #: ../qml/Main.qml:236 ../qml/Settings.qml:14
 msgid "Settings"
