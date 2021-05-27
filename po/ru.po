@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-05-22 04:33+0000\n"
+"PO-Revision-Date: 2021-05-28 06:33+0000\n"
 "Last-Translator: Axus Wizix <axus.wizix@mail.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ru/>\n"
@@ -35,8 +35,7 @@ msgstr "Версия"
 #: ../qml/About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
 msgstr ""
-"Выпущено на условиях лицензии GNU GPL v3.\n"
-"<br>Исходный код доступен по адресу:"
+"Выпущено на условиях лицензии GNU GPL v3.<br>Исходный код доступен по адресу:"
 
 #: ../qml/About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
