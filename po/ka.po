@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2019-12-05 22:06+0000\n"
-"Last-Translator: Jano Sharangia <janosharangia2@gmail.com>\n"
-"Language-Team: Georgian <https://hosted.weblate.org/projects/activity-"
-"tracker/translations/ka/>\n"
+"PO-Revision-Date: 2021-06-06 00:40+0000\n"
+"Last-Translator: Lihan Zhu <zhulihan@seas.upenn.edu>\n"
+"Language-Team: Georgian <https://hosted.weblate.org/projects/"
+"activity-tracker/translations/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: ../qml/About.qml:37
 msgid "Activity Tracker"
-msgstr ""
+msgstr "**Hello**"
 
 #: ../qml/About.qml:43
 msgid "Version"
@@ -37,18 +37,18 @@ msgstr ""
 
 #: ../qml/About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
-msgstr ""
+msgstr "*   hello"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
 #: ../qml/About.qml:103
 msgid ""
 "Thanks to %1 for the icons based on:<br>%3 by %8 from %2,<br>%4 by %9 from "
 "%2,<br>%5 by %10 from %2,<br>%6 by %11 from %2,<br>%7 by %12 from %2"
-msgstr ""
+msgstr "+   hello"
 
 #: ../qml/About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr ""
+msgstr "## Hello World"
 
 #: ../qml/About.qml:133
 msgid "Support Weblate"
@@ -57,6 +57,8 @@ msgstr ""
 #: ../qml/ActivityDialog.qml:16
 msgid "Name"
 msgstr ""
+"1.  first\n"
+"2.  second"
 
 #: ../qml/ActivityDialog.qml:19
 msgid "Select a sport below"
@@ -65,6 +67,8 @@ msgstr ""
 #: ../qml/ActivityDialog.qml:29
 msgid "Activity Type"
 msgstr ""
+"*   hello\n"
+"*   bell"
 
 #: ../qml/ActivityDialog.qml:39
 msgid "Save"
@@ -73,6 +77,8 @@ msgstr ""
 #: ../qml/ActivityDialog.qml:53
 msgid "Cancel"
 msgstr ""
+"*   one\n"
+"*   two"
 
 #: ../qml/ImportPage.qml:34
 msgid "Choose"
@@ -80,7 +86,7 @@ msgstr ""
 
 #: ../qml/Main.qml:151 ../qml/Main.qml:154
 msgid "Distance: "
-msgstr ""
+msgstr "*   distance "
 
 #: ../qml/Main.qml:157
 msgid "Time: "
@@ -104,7 +110,7 @@ msgstr ""
 
 #: ../qml/Main.qml:276 ../qml/Tracker.qml:232
 msgid "Select the type and the name of your activity"
-msgstr ""
+msgstr "*   new one"
 
 #: ../qml/Main.qml:291
 msgid "Edit the type and the name of your activity"
