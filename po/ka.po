@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-06-06 00:40+0000\n"
+"PO-Revision-Date: 2021-06-08 17:34+0000\n"
 "Last-Translator: Lihan Zhu <zhulihan@seas.upenn.edu>\n"
 "Language-Team: Georgian <https://hosted.weblate.org/projects/"
 "activity-tracker/translations/ka/>\n"
@@ -86,7 +86,7 @@ msgstr ""
 
 #: ../qml/Main.qml:151 ../qml/Main.qml:154
 msgid "Distance: "
-msgstr "*   distance "
+msgstr "* a "
 
 #: ../qml/Main.qml:157
 msgid "Time: "
@@ -130,7 +130,7 @@ msgstr ""
 
 #: ../qml/Main.qml:411
 msgid "Close"
-msgstr ""
+msgstr "*    text"
 
 #: ../qml/Main.qml:422
 msgid "Log new Activity"
@@ -138,19 +138,19 @@ msgstr ""
 
 #: ../qml/Map.qml:17
 msgid "Activity Map"
-msgstr ""
+msgstr "*   ok"
 
 #: ../qml/Map.qml:20
 msgid "Info"
-msgstr ""
+msgstr "-   b"
 
 #: ../qml/Settings.qml:36
 msgid "Units"
-msgstr ""
+msgstr "*   a"
 
 #: ../qml/Settings.qml:37
 msgid "Kilometers"
-msgstr ""
+msgstr "*   km"
 
 #: ../qml/Settings.qml:37
 msgid "Miles"
