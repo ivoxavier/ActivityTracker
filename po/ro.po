@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-08-16 20:00+0000\n"
+"PO-Revision-Date: 2021-08-17 20:32+0000\n"
 "Last-Translator: ionut eugen <bueugenionut@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/"
 "activity-tracker/translations/ro/>\n"
@@ -109,7 +109,7 @@ msgstr "Importă"
 
 #: ../qml/Main.qml:276 ../qml/Tracker.qml:232
 msgid "Select the type and the name of your activity"
-msgstr "Selectați tipul și numele activității dvs."
+msgstr "Selectați tipul și numele activității dvs"
 
 #: ../qml/Main.qml:291
 msgid "Edit the type and the name of your activity"
@@ -125,7 +125,7 @@ msgstr "Glisați în sus pentru a înregistra o nouă activitate"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
-msgstr ""
+msgstr "Urmăriți informațiile"
 
 #: ../qml/Main.qml:411
 msgid "Close"
@@ -218,7 +218,7 @@ msgstr "Doriți să opriți înregistrarea?"
 
 #: ../qml/Tracker.qml:199
 msgid "Yes, Stop!"
-msgstr "Da, oprește"
+msgstr "Da, oprește!"
 
 #: ../qml/Tracker.qml:220
 msgid "No, Continue"
