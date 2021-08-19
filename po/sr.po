@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-01-08 10:32+0000\n"
-"Last-Translator: Burek <jokxa@hotmail.com>\n"
+"PO-Revision-Date: 2021-08-20 12:43+0000\n"
+"Last-Translator: Nikola Matić <nikolamatic225@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/sr/>\n"
 "Language: sr\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.4.1-dev\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -38,7 +38,7 @@ msgstr "Objavljeno prema uslovima iz GNU GPL v3.<br> Izvorni kod dostupan na"
 
 #: ../qml/About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
-msgstr "Djelovi ikonica su kreirani od %1 od %2 je licenciran od %3"
+msgstr "Delovi ikonica su kreirani od %1 od %2 je licenciran od %3"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
 #: ../qml/About.qml:103
@@ -87,7 +87,7 @@ msgstr "Distanca: "
 
 #: ../qml/Main.qml:157
 msgid "Time: "
-msgstr "Vrijeme: "
+msgstr "Vreme: "
 
 #: ../qml/Main.qml:232
 msgid "Recent Activities"
