@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
 "PO-Revision-Date: 2021-11-19 20:12+0000\n"
-"Last-Translator: M. ian <sofiane1still@gmail.com>\n"
+"Last-Translator: Alaa alden Aldroubi <alaa.aldroubi@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/ar/>\n"
 "Language: ar\n"
@@ -26,7 +26,7 @@ msgstr "حول"
 
 #: ../qml/About.qml:37
 msgid "Activity Tracker"
-msgstr "تتبع الأحداث"
+msgstr "متتبع الأحداث"
 
 #: ../qml/About.qml:43
 msgid "Version"
@@ -34,11 +34,11 @@ msgstr "الاصدار"
 
 #: ../qml/About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
-msgstr "صدر بموجب شروط GNU GPL v3. <br> شفرة المصدر متاحة على"
+msgstr "تم إصداره بموجب شروط GNU GPL v3. شفرة المصدر متاحة"
 
 #: ../qml/About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
-msgstr "تم إنشاء جزء من الرموز بنسبة٪ 1 من٪ 2 تم ترخيصه بواسطة٪ 3"
+msgstr "جزء من الرموز يتم بواسطة٪ 1 من٪ 2 مرخص بواسطة٪ 3"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
 #: ../qml/About.qml:103
@@ -46,13 +46,18 @@ msgid ""
 "Thanks to %1 for the icons based on:<br>%3 by %8 from %2,<br>%4 by %9 from "
 "%2,<br>%5 by %10 from %2,<br>%6 by %11 from %2,<br>%7 by %12 from %2"
 msgstr ""
-"شكرا ل %1 عن الرموز استنادا بواسطة:<br>%3بواسطة %8 من قبل %2,<br>%4 بواسطة"
-"%9  من قبل %2,<br>%5بواسطة %10 من قبل %2,<br>%6 واسطة%11 بواسطة %2,<br>%7  "
-"من قبل  %12 من قبل %2"
+"مترجم :٪ 1 هو اسم مؤلف الرموز ،٪ 2 هو اسم المشروع. args من٪ 3 إلى٪ 7 اسم رمز "
+"بينما٪ 8 إلى٪ 12 أسماء مؤلفين أصليين\n"
+"\n"
+"بفضل٪ 1 للرموز استنادًا إلى:٪ 3 بواسطة٪ 8 من٪ 2 ، \n"
+"٪ 4 بواسطة٪ 9 من٪ 2 ، \n"
+"٪ 5 بواسطة٪ 10 من٪ 2 ، \n"
+"٪ 6 في٪ 11 من٪ 2 ، \n"
+"٪ 7 بواسطة٪ 12 من٪ 2"
 
 #: ../qml/About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr "ترجم هذا التطبيق على Weblate!"
+msgstr "تمت ترجمة هذا التطبيق على موقع Weblate!"
 
 #: ../qml/About.qml:133
 msgid "Support Weblate"
@@ -189,7 +194,7 @@ msgstr "بعد"
 
 #: ../qml/Tracker.qml:29
 msgid "Activity in Progress"
-msgstr "النشاط في تقدم"
+msgstr "النشاطات الحالية"
 
 #: ../qml/Tracker.qml:29
 msgid "New Activity"
@@ -237,7 +242,7 @@ msgstr "إبدأ"
 
 #: ../qml/components/Sports.qml:8
 msgid "BikeRide"
-msgstr "درّاجة"
+msgstr "رحلة في الدرّاجة"
 
 #: ../qml/components/Sports.qml:9
 msgid "Walk"
