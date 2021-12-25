@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-11-09 01:28+0000\n"
-"Last-Translator: Mahesh <mahesh.mahe17@gmail.com>\n"
+"PO-Revision-Date: 2021-12-26 04:33+0000\n"
+"Last-Translator: Jagadeesh Vijay Varma <jagadeeshvarma.b@gmail.com>\n"
 "Language-Team: Telugu <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/te/>\n"
 "Language: te\n"
@@ -17,27 +17,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
-msgstr ""
+msgstr "గురించి"
 
 #: ../qml/About.qml:37
 msgid "Activity Tracker"
-msgstr ""
+msgstr "కార్యాచరణ ట్రాకర్"
 
 #: ../qml/About.qml:43
 msgid "Version"
-msgstr "version"
+msgstr "సంస్కరణ"
 
 #: ../qml/About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
 msgstr ""
+"GNU GPL v3 నిబంధనల ప్రకారం విడుదల చేయబడింది.<br>సోర్స్ కోడ్ అందుబాటులో ఉంది"
 
 #: ../qml/About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
-msgstr ""
+msgstr "చిహ్నాలలో కొంత భాగం %1 చేయబడింది %2 నుండి %3 చే లైసెన్స్ చేయబడింది"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
 #: ../qml/About.qml:103
@@ -45,208 +46,211 @@ msgid ""
 "Thanks to %1 for the icons based on:<br>%3 by %8 from %2,<br>%4 by %9 from "
 "%2,<br>%5 by %10 from %2,<br>%6 by %11 from %2,<br>%7 by %12 from %2"
 msgstr ""
+"దీని ఆధారంగా చిహ్నాలకు %1కి ధన్యవాదాలు:<br>%2 నుండి %8 ద్వారా %3,<br>%2 నుండి"
+" %9ద్వారా %4,<br>%2 నుండి %10 ద్వారా %5,<br>%2 నుండి %11 ద్వారా %6,<br>%2 "
+"నుండి %12 ద్వారా %7"
 
 #: ../qml/About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr ""
+msgstr "ఈ యాప్‌ను వెబ్‌లేట్‌లో అనువదించండి!"
 
 #: ../qml/About.qml:133
 msgid "Support Weblate"
-msgstr ""
+msgstr "వెబ్‌లేట్‌కు మద్దతు ఇవండి"
 
 #: ../qml/ActivityDialog.qml:16
 msgid "Name"
-msgstr ""
+msgstr "పేరు"
 
 #: ../qml/ActivityDialog.qml:19
 msgid "Select a sport below"
-msgstr ""
+msgstr "దిగువన ఒక క్రీడను ఎంచుకోండి"
 
 #: ../qml/ActivityDialog.qml:29
 msgid "Activity Type"
-msgstr ""
+msgstr "కార్యాచరణ రకం"
 
 #: ../qml/ActivityDialog.qml:39
 msgid "Save"
-msgstr ""
+msgstr "సేవ్"
 
 #: ../qml/ActivityDialog.qml:53
 msgid "Cancel"
-msgstr ""
+msgstr "రద్దు"
 
 #: ../qml/ImportPage.qml:34
 msgid "Choose"
-msgstr ""
+msgstr "ఎంచుకోండి"
 
 #: ../qml/Main.qml:151 ../qml/Main.qml:154
 msgid "Distance: "
-msgstr ""
+msgstr "దూరం: "
 
 #: ../qml/Main.qml:157
 msgid "Time: "
-msgstr ""
+msgstr "సమయం: "
 
 #: ../qml/Main.qml:232
 msgid "Recent Activities"
-msgstr ""
+msgstr "ఇటీవలి కార్యకలాపాలు"
 
 #: ../qml/Main.qml:236 ../qml/Settings.qml:14
 msgid "Settings"
-msgstr ""
+msgstr "సెట్టింగులు"
 
 #: ../qml/Main.qml:241
 msgid "Filter"
-msgstr ""
+msgstr "వడపోత"
 
 #: ../qml/Main.qml:246
 msgid "Import"
-msgstr ""
+msgstr "దిగుమతి"
 
 #: ../qml/Main.qml:276 ../qml/Tracker.qml:232
 msgid "Select the type and the name of your activity"
-msgstr ""
+msgstr "మీ కార్యాచరణ యొక్క రకాన్ని మరియు పేరును ఎంచుకోండి"
 
 #: ../qml/Main.qml:291
 msgid "Edit the type and the name of your activity"
-msgstr ""
+msgstr "మీ కార్యకలాపం యొక్క రకాన్ని మరియు పేరును సవరించండి"
 
 #: ../qml/Main.qml:312
 msgid "No saved activities"
-msgstr ""
+msgstr "సేవ్ చేయబడిన కార్యకలాపాలు లేవు"
 
 #: ../qml/Main.qml:315
 msgid "Swipe up to log a new activity"
-msgstr ""
+msgstr "కొత్త కార్యాచరణను లాగ్ చేయడానికి పైకి స్వైప్ చేయండి"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
-msgstr ""
+msgstr "సమాచారాన్ని ట్రాక్ చేయండి"
 
 #: ../qml/Main.qml:411
 msgid "Close"
-msgstr ""
+msgstr "మూసివేయి"
 
 #: ../qml/Main.qml:422
 msgid "Log new Activity"
-msgstr ""
+msgstr "కొత్త కార్యాచరణను నమోదు చేయండి"
 
 #: ../qml/Map.qml:17
 msgid "Activity Map"
-msgstr ""
+msgstr "కార్యాచరణ మ్యాప్"
 
 #: ../qml/Map.qml:20
 msgid "Info"
-msgstr ""
+msgstr "సమాచారం"
 
 #: ../qml/Settings.qml:36
 msgid "Units"
-msgstr ""
+msgstr "యూనిట్లు"
 
 #: ../qml/Settings.qml:37
 msgid "Kilometers"
-msgstr ""
+msgstr "కిలోమీటర్లు"
 
 #: ../qml/Settings.qml:37
 msgid "Miles"
-msgstr ""
+msgstr "మైళ్లు"
 
 #: ../qml/Settings.qml:54
 msgid "Log a point every:"
-msgstr ""
+msgstr "ప్రతి పాయింట్‌ను నమోదు చేయండి:"
 
 #: ../qml/Settings.qml:56
 msgid "between 50 and 3600000"
-msgstr ""
+msgstr "50 మరియు 3600000 మధ్య"
 
 #. TRANSLATORS: millisecond abbreviation
 #: ../qml/Settings.qml:83
 msgid "ms"
-msgstr ""
+msgstr "ఎమ్ ఎస్"
 
 #: ../qml/Settings.qml:93
 msgid "Altitude offset:"
-msgstr ""
+msgstr "ఎత్తు ఆఫ్‌సెట్:"
 
 #: ../qml/Settings.qml:94
 msgid "between -100 and 100"
-msgstr ""
+msgstr "-100 మరియు 100 మధ్య"
 
 #: ../qml/Settings.qml:116
 msgid "meter(s)"
-msgstr ""
+msgstr "మీటర్(ఎస్)"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
-msgstr ""
+msgstr "క్రీడను ఎంచుకోండి:"
 
 #: ../qml/SportSelectPopUp.qml:21
 msgid "After"
-msgstr ""
+msgstr "తర్వాత"
 
 #: ../qml/Tracker.qml:29
 msgid "Activity in Progress"
-msgstr ""
+msgstr "కార్యాచరణ పురోగతిలో ఉంది"
 
 #: ../qml/Tracker.qml:29
 msgid "New Activity"
-msgstr ""
+msgstr "కొత్త కార్యాచరణ"
 
 #: ../qml/Tracker.qml:67
 msgid "Do you want to cancel the activity?"
-msgstr ""
+msgstr "మీరు కార్యకలాపాన్ని రద్దు చేయాలనుకుంటున్నారా?"
 
 #: ../qml/Tracker.qml:70
 msgid "Yes, cancel"
-msgstr ""
+msgstr "అవును, రద్దుచేయి"
 
 #: ../qml/Tracker.qml:89
 msgid "No, continue"
-msgstr ""
+msgstr "వద్దు, కొనసాగించు"
 
 #: ../qml/Tracker.qml:128 ../qml/Tracker.qml:133
 msgid "No data"
-msgstr ""
+msgstr "సమాచారం లేదు"
 
 #: ../qml/Tracker.qml:197
 msgid "Do you want to stop the recording?"
-msgstr ""
+msgstr "మీరు రికార్డింగ్‌ను ఆపివేయాలనుకుంటున్నారా?"
 
 #: ../qml/Tracker.qml:199
 msgid "Yes, Stop!"
-msgstr ""
+msgstr "అవును, ఆపివేయి!"
 
 #: ../qml/Tracker.qml:220
 msgid "No, Continue"
-msgstr ""
+msgstr "వద్దు, కొనసాగించు"
 
 #: ../qml/Tracker.qml:300
 msgid "Start"
-msgstr ""
+msgstr "ప్రారంభించు"
 
 #: ../qml/Tracker.qml:321
 msgid "Stop"
-msgstr ""
+msgstr "ఆపివేయి"
 
 #: ../qml/components/Sports.qml:7
 msgid "Run"
-msgstr ""
+msgstr "పరుగెత్తు"
 
 #: ../qml/components/Sports.qml:8
 msgid "BikeRide"
-msgstr ""
+msgstr "బైక్ రైడ్"
 
 #: ../qml/components/Sports.qml:9
 msgid "Walk"
-msgstr ""
+msgstr "నడవండి"
 
 #: ../qml/components/Sports.qml:10
 msgid "Drive"
-msgstr ""
+msgstr "డ్రైవ్"
 
 #: ../qml/components/Sports.qml:11
 msgid "Hike"
-msgstr ""
+msgstr "హైక్"
 
 #: ../qml/components/Sports.qml:12
 msgid "Unicycle"
-msgstr ""
+msgstr "ఏకచక్రం"
