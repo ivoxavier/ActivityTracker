@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2020-11-01 10:26+0000\n"
+"PO-Revision-Date: 2021-12-31 16:51+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/tr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3.2-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
@@ -33,14 +33,12 @@ msgstr "Sürüm"
 
 #: ../qml/About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
-msgstr ""
-"GNU GPL v3 koşulları altında piyasaya sürüldü. <br> kaynak kodu "
-"kullanılabilir"
+msgstr "GNU GPL v3 koşulları altında yayınlandı.<br>Kaynak kodları için"
 
 #: ../qml/About.qml:90
 msgid "Part of the icons is made by %1 from %2 is licensed by %3"
 msgstr ""
-"Simgelerin bir bölümü %2 öğesinden%1 tarafından yapılır ve %3 tarafından "
+"Simgelerin bir bölümü %2 ögesinden %1 tarafından yapılmış ve %3 ile "
 "lisanslanmıştır"
 
 #. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project name. args from %3 to %7 are icon name while %8 to %12 are original authors names
@@ -52,15 +50,15 @@ msgstr "Onun sayesınde"
 
 #: ../qml/About.qml:124
 msgid "Translate this app on Weblate!"
-msgstr "Weblate bu uygulamayı çevir!"
+msgstr "Bu uygulamayı Weblate'de çevirin!"
 
 #: ../qml/About.qml:133
 msgid "Support Weblate"
-msgstr "Weblate Destek"
+msgstr "Weblate'yi destekleyin"
 
 #: ../qml/ActivityDialog.qml:16
 msgid "Name"
-msgstr "İsim"
+msgstr "Ad"
 
 #: ../qml/ActivityDialog.qml:19
 msgid "Select a sport below"
@@ -108,19 +106,19 @@ msgstr "İçe aktar"
 
 #: ../qml/Main.qml:276 ../qml/Tracker.qml:232
 msgid "Select the type and the name of your activity"
-msgstr "Faaliyetinizin türünü ve adını seçin"
+msgstr "Etkinliğinizin türünü ve adını seçin"
 
 #: ../qml/Main.qml:291
 msgid "Edit the type and the name of your activity"
-msgstr "Faaliyetinizin türünü ve adını düzenleyin"
+msgstr "Etkinliğinizin türünü ve adını düzenleyin"
 
 #: ../qml/Main.qml:312
 msgid "No saved activities"
-msgstr "Kaydedilmiş aktivite yok"
+msgstr "Kaydedilen etkinlik yok"
 
 #: ../qml/Main.qml:315
 msgid "Swipe up to log a new activity"
-msgstr "Yeni bir aktivite kaydetmek için yukarı kaydırın"
+msgstr "Yeni bir etkinliği günlüğe kaydetmek için yukarı kaydırın"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
@@ -132,7 +130,7 @@ msgstr "Kapat"
 
 #: ../qml/Main.qml:422
 msgid "Log new Activity"
-msgstr "Günlük yeni Etkinlik"
+msgstr "Yeni etkinliği günlüğe kaydet"
 
 #: ../qml/Map.qml:17
 msgid "Activity Map"
@@ -156,7 +154,7 @@ msgstr "Mil"
 
 #: ../qml/Settings.qml:54
 msgid "Log a point every:"
-msgstr "Her bir nokta günlüğü:"
+msgstr "Bir noktayı günlüğe kaydetme aralığı:"
 
 #: ../qml/Settings.qml:56
 msgid "between 50 and 3600000"
@@ -165,11 +163,11 @@ msgstr "50 ile 3600000 arasında"
 #. TRANSLATORS: millisecond abbreviation
 #: ../qml/Settings.qml:83
 msgid "ms"
-msgstr "Bayan"
+msgstr "ms"
 
 #: ../qml/Settings.qml:93
 msgid "Altitude offset:"
-msgstr "İrtifa Kayması:"
+msgstr "Yükseklik kayması:"
 
 #: ../qml/Settings.qml:94
 msgid "between -100 and 100"
@@ -197,7 +195,7 @@ msgstr "Yeni Etkinlik"
 
 #: ../qml/Tracker.qml:67
 msgid "Do you want to cancel the activity?"
-msgstr "Etkinliği iptal etmeyi istiyor musunuz?"
+msgstr "Etkinliği iptal etmek istiyor musunuz?"
 
 #: ../qml/Tracker.qml:70
 msgid "Yes, cancel"
@@ -245,7 +243,7 @@ msgstr "Yürüyüş"
 
 #: ../qml/components/Sports.qml:10
 msgid "Drive"
-msgstr "Araç kullanmak"
+msgstr "Araba Sürmek"
 
 #: ../qml/components/Sports.qml:11
 msgid "Hike"
