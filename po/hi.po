@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2022-03-24 00:56+0000\n"
+"PO-Revision-Date: 2022-03-25 01:57+0000\n"
 "Last-Translator: Anupam Malhotra <anpm.malhotra@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/activity-tracker/"
 "translations/hi/>\n"
@@ -71,9 +71,8 @@ msgid "Activity Type"
 msgstr "गतिविधि का प्रकार"
 
 #: ../qml/ActivityDialog.qml:39
-#, fuzzy
 msgid "Save"
-msgstr "सुरक्षित करें"
+msgstr "सहेजें"
 
 #: ../qml/ActivityDialog.qml:53
 msgid "Cancel"
@@ -84,7 +83,6 @@ msgid "Choose"
 msgstr "चुनें"
 
 #: ../qml/Main.qml:151 ../qml/Main.qml:154
-#, fuzzy
 msgid "Distance: "
 msgstr "दूरी: "
 
@@ -103,10 +101,9 @@ msgstr "सेटिंग"
 #: ../qml/Main.qml:241
 #, fuzzy
 msgid "Filter"
-msgstr "छन्नी"
+msgstr "फ़िल्टर"
 
 #: ../qml/Main.qml:246
-#, fuzzy
 msgid "Import"
 msgstr "आयात"
 
@@ -119,14 +116,12 @@ msgid "Edit the type and the name of your activity"
 msgstr "अपनी गतिविधि का प्रकार और नाम संपादित करें"
 
 #: ../qml/Main.qml:312
-#, fuzzy
 msgid "No saved activities"
 msgstr "कोई सहेजी गई गतिविधियां नहीं"
 
 #: ../qml/Main.qml:315
-#, fuzzy
 msgid "Swipe up to log a new activity"
-msgstr "नई गतिविधि लॉग करने के लिए ऊपर की ओर स्वाइप करें"
+msgstr "नई गतिविधि दर्ज करने के लिए ऊपर की ओर स्वाइप करें"
 
 #: ../qml/Main.qml:397
 msgid "Track information"
@@ -183,7 +178,7 @@ msgstr "-100 और 100 के बीच में"
 
 #: ../qml/Settings.qml:116
 msgid "meter(s)"
-msgstr ""
+msgstr "मीटर"
 
 #: ../qml/SportSelectPopUp.qml:10
 msgid "Choose sport:"
@@ -243,20 +238,22 @@ msgstr "चलाना"
 
 #: ../qml/components/Sports.qml:8
 msgid "BikeRide"
-msgstr ""
+msgstr "साइकिल"
 
 #: ../qml/components/Sports.qml:9
 msgid "Walk"
-msgstr ""
+msgstr "चहलक़दमी"
 
 #: ../qml/components/Sports.qml:10
+#, fuzzy
 msgid "Drive"
-msgstr ""
+msgstr "गाड़ी चलाना"
 
 #: ../qml/components/Sports.qml:11
 msgid "Hike"
-msgstr ""
+msgstr "पैदल यात्रा"
 
 #: ../qml/components/Sports.qml:12
+#, fuzzy
 msgid "Unicycle"
-msgstr ""
+msgstr "एक पहिया"
