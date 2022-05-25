@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: activitytracker.cwayne18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-26 11:36+0000\n"
-"PO-Revision-Date: 2021-01-08 10:32+0000\n"
-"Last-Translator: Liao junchao <liaojunchao@outlook.com>\n"
+"PO-Revision-Date: 2022-05-26 07:20+0000\n"
+"Last-Translator: kevin chen <kevin.chen@yijinin.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "activity-tracker/translations/zh_Hans/>\n"
 "Language: zh_HANS-CN\n"
@@ -17,19 +17,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4.1-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #: ../qml/About.qml:8 ../qml/Settings.qml:18
 msgid "About"
-msgstr "关于"
+msgstr "关于f"
 
 #: ../qml/About.qml:37
 msgid "Activity Tracker"
-msgstr "活动追踪器"
+msgstr "f活动追踪器"
 
 #: ../qml/About.qml:43
 msgid "Version"
-msgstr "版本"
+msgstr "1版本"
 
 #: ../qml/About.qml:81
 msgid "Released under the terms of the GNU GPL v3.<br>Source code available on"
